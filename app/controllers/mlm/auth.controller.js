@@ -57,35 +57,93 @@ exports.loginUserAuth = async (req, res) => {
   }
 };
 
-exports.createUser = async (req, res) => {
+exports.loginAdminAuth = async (req, res) => {
   try {
-    if (!req.body.email || !req.body.password) {
+    if (!req.body.username || !req.body.password) {
       res.status(400).send({
-        message: "Email & Password required.",
+        message: "Nombre de usuario y contraseña requeridos.",
       });
       return;
     }
 
     var condition = {
       where: {
-        [Op.and]: [
+        [Op.or]: [
           {
-            email: req.body.email,
+            username: req.body.username,
+          },
+          {
+            email: req.body.username,
           },
         ],
       },
     };
 
-    const user = await db[req.params.document].findOne(condition);
+    const data = await db.admins.findOne(condition);
+
+    if (!data) {
+      res.status(400).send({
+        message: "Nombre de usuario no encontrado.",
+      });
+    } else {
+      const match = await bcrypt.compare(req.body.password, data.password);
+      if (match) {
+        res.send({
+          access_token: jwt.accessTokenEncode(data.id),
+          refresh_token: jwt.refreshTokenEncode(data.id),
+          user: data,
+        });
+      } else {
+        res.status(400).send({
+          message: "Contraseña incorrecta",
+        });
+      }
+    }
+  } catch (error) {
+    res.status(500).send({
+      message: error.message,
+    });
+  }
+};
+
+exports.createUser = async (req, res) => {
+  try {
+    if (
+      !req.body.name ||
+      !req.body.first_lastname ||
+      !req.body.username ||
+      !req.body.password ||
+      !req.body.sponsor
+    ) {
+      res.status(400).send({
+        message: "Datos incompletos para el registro",
+      });
+      return;
+    }
+
+    var condition = {
+      where: {
+        [Op.or]: [
+          {
+            email: req.body.email,
+          },
+          {
+            username: req.body.username,
+          },
+        ],
+      },
+    };
+
+    const user = await db.users.findOne(condition);
 
     if (user) {
       res.status(400).send({
-        message: "Email already in use.",
+        message: "El correo o el nombre de usuario ya están en uso.",
       });
     } else {
       bcrypt.hash(req.body.password, saltRounds, async function (error, hash) {
         req.body.password = hash;
-        const users = new db[req.params.document](req.body);
+        const users = new db.users(req.body);
         const data = await users.save(users);
 
         res.send({
@@ -230,7 +288,7 @@ exports.resetPassword = async (req, res) => {
       },
     };
 
-    const token_data = await db["tokens"].findOne(condition);
+    const token_data = await db.tokens.findOne(condition);
 
     if (!token_data) {
       res.status(400).send({
