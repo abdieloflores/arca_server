@@ -1,8 +1,8 @@
 module.exports = (sequelize, Sequelize) => {
   return sequelize.define(
-    "periods",
+    "admin_roles",
     {
-      period_id: {
+      admin_role_id: {
         type: Sequelize.BIGINT(20),
         autoIncrement: true,
         primaryKey: true,
@@ -12,13 +12,12 @@ module.exports = (sequelize, Sequelize) => {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      start_date: {
-        type: Sequelize.DATEONLY,
+      modules: {
+        type: Sequelize.TEXT,
         allowNull: false,
-      },
-      final_date: {
-        type: Sequelize.DATEONLY,
-        allowNull: false,
+        defaultValue: "[]",
+        comment:
+          "Se debe guardar un array en string para leerlo correctamente.",
       },
       created_at: {
         type: "datetime not null default current_timestamp",

@@ -14,7 +14,7 @@ module.exports = (sequelize, Sequelize) => {
       },
       level_id: {
         type: Sequelize.BIGINT(20),
-        default: 0,
+        defaultValue: 0,
       },
       created_at: {
         type: "datetime not null default current_timestamp",

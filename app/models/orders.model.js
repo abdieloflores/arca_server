@@ -17,32 +17,48 @@ module.exports = (sequelize, Sequelize) => {
         allowNull: false,
       },
       amount: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       points: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       total: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       discount_amount: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       tax_amount: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       payment_status: {
         type: Sequelize.STRING,
         allowNull: false,
-        default: "unpaid",
+        defaultValue: "unpaid",
       },
-      notes: {
-        type: Sequelize.TEXT,
+      payment_method_id: {
+        type: Sequelize.BIGINT(20),
       },
       type: {
         type: Sequelize.STRING,
         allowNull: false,
-        default: "buy",
+        defaultValue: "buy",
+      },
+      payment_image: {
+        type: Sequelize.STRING,
+      },
+      notes: {
+        type: Sequelize.TEXT,
       },
       created_at: {
         type: "datetime not null default current_timestamp",

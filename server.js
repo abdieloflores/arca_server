@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const session = require("express-session");
+const { exec } = require("child_process");
 
 global.__basedir = __dirname;
 
@@ -32,7 +33,9 @@ async function testConnection() {
 
     // drop the table if it already exists
     db.sequelize.sync({ force: true }).then(() => {
-      console.log("Drop and re-sync db.");
+      exec("npx sequelize-cli db:seed:all", (error, stdout, stderr) => {
+        console.log(error, stdout, stderr);
+      });
     });
 
     console.log("Connected to Database.");

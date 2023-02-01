@@ -2,35 +2,56 @@ module.exports = (sequelize, Sequelize) => {
   return sequelize.define(
     "commissions",
     {
-      period_id: {
-        type: Sequelize.BIGINT(20),
-        primaryKey: true,
-        allowNull: false,
-      },
       user_id: {
         type: Sequelize.BIGINT(20),
         primaryKey: true,
         allowNull: false,
       },
-      commission_type_id: {
-        type: Sequelize.TINYINT(1),
+      period_id: {
+        type: Sequelize.BIGINT(20),
         primaryKey: true,
         allowNull: false,
       },
+      commission_type_id: {
+        type: Sequelize.BIGINT(20),
+        primaryKey: true,
+        allowNull: false,
+      },
+      commission_details: {
+        type: Sequelize.JSON,
+      },
       total_points: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       total_sales: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       amount: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       tax_amount: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       total: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
+      },
+      payment_status: {
+        type: Sequelize.STRING,
+        allowNull: false,
+        defaultValue: "unpaid",
+      },
+      payment_date: {
+        type: Sequelize.DATE,
       },
       created_at: {
         type: "datetime not null default current_timestamp",

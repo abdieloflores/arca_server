@@ -1,24 +1,48 @@
 module.exports = (sequelize, Sequelize) => {
   return sequelize.define(
-    "periods",
+    "admins",
     {
-      period_id: {
+      admin_id: {
         type: Sequelize.BIGINT(20),
         autoIncrement: true,
         primaryKey: true,
+        allowNull: false,
+      },
+      admin_role_id: {
+        type: Sequelize.BIGINT(20),
         allowNull: false,
       },
       name: {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      start_date: {
-        type: Sequelize.DATEONLY,
+      first_lastname: {
+        type: Sequelize.STRING,
         allowNull: false,
       },
-      final_date: {
-        type: Sequelize.DATEONLY,
+      second_lastname: {
+        type: Sequelize.STRING,
+      },
+      username: {
+        type: Sequelize.STRING,
         allowNull: false,
+        unique: true,
+      },
+      password: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      email: {
+        type: Sequelize.STRING,
+      },
+      phone: {
+        type: Sequelize.STRING,
+      },
+      image: {
+        type: Sequelize.STRING,
+      },
+      image_link: {
+        type: Sequelize.STRING,
       },
       created_at: {
         type: "datetime not null default current_timestamp",

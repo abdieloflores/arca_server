@@ -22,23 +22,29 @@ module.exports = (sequelize, Sequelize) => {
         type: Sequelize.STRING,
       },
       price: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       points: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       discount: {
-        type: "decimal(24,4) not null default 0",
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
       },
       tax: {
         type: Sequelize.TINYINT(1),
         allowNull: false,
-        default: 0,
+        defaultValue: 0,
       },
       status: {
         type: Sequelize.TINYINT(1),
         allowNull: false,
-        default: 1,
+        defaultValue: 1,
       },
       created_at: {
         type: "datetime not null default current_timestamp",

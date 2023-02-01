@@ -20,16 +20,16 @@ module.exports = (sequelize, Sequelize) => {
       },
       parent_id: {
         type: Sequelize.BIGINT(20),
-        default: 0,
+        defaultValue: 0,
       },
       position: {
         type: Sequelize.INTEGER,
-        default: 0,
+        defaultValue: 0,
       },
       status: {
         type: Sequelize.TINYINT(1),
         allowNull: false,
-        default: 1,
+        defaultValue: 1,
       },
       created_at: {
         type: "datetime not null default current_timestamp",

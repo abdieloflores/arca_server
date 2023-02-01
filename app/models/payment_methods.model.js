@@ -1,8 +1,8 @@
 module.exports = (sequelize, Sequelize) => {
   return sequelize.define(
-    "periods",
+    "payment_methods",
     {
-      period_id: {
+      payment_method_id: {
         type: Sequelize.BIGINT(20),
         autoIncrement: true,
         primaryKey: true,
@@ -12,13 +12,8 @@ module.exports = (sequelize, Sequelize) => {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      start_date: {
-        type: Sequelize.DATEONLY,
-        allowNull: false,
-      },
-      final_date: {
-        type: Sequelize.DATEONLY,
-        allowNull: false,
+      notes: {
+        type: Sequelize.TEXT,
       },
       created_at: {
         type: "datetime not null default current_timestamp",

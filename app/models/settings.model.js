@@ -8,12 +8,12 @@ module.exports = (sequelize, Sequelize) => {
         primaryKey: true,
         allowNull: false,
       },
-      key: {
+      name: {
         type: Sequelize.STRING,
         allowNull: false,
       },
       value: {
-        type: Sequelize.JSON,
+        type: Sequelize.TEXT('long'),
         allowNull: false,
       },
       created_at: {

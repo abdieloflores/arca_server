@@ -4,6 +4,7 @@ module.exports = (sequelize, Sequelize) => {
     {
       commission_type_id: {
         type: Sequelize.BIGINT(20),
+        autoIncrement: true,
         primaryKey: true,
         allowNull: false,
       },
