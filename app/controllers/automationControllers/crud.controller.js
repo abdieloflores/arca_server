@@ -14,11 +14,11 @@ exports.create = async (req, res) => {
 
 exports.findAll = async (req, res) => {
   try {
-    var condition = {
-      order: [["id", "DESC"]], // ASC, DESC
+    let condition = {
+      // order: [["id", "DESC"]], // ASC, DESC
     };
-    var offset = parseInt(req.query.offset);
-    var limit = parseInt(req.query.limit);
+    let offset = parseInt(req.query.offset);
+    let limit = parseInt(req.query.limit);
 
     if (offset >= 0 && limit >= 0) {
       condition.offset = offset;

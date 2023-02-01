@@ -6,8 +6,8 @@ module.exports = {
     await queryInterface.bulkInsert("admins", [
       {
         admin_role_id: 1,
-        name: "Arca",
-        first_lastname: "Proyect",
+        name: "Admin",
+        first_lastname: "",
         second_lastname: "",
         username: "admin",
         password:

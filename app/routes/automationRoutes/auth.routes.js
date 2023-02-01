@@ -19,5 +19,5 @@ module.exports = app => {
 
   router.post("/phone/verify/:document", auth.createAuthWithPhoneVerify);
 
-  app.use("/auth", router);
+  app.use("/automation/auth", router);
 };

@@ -25,8 +25,6 @@ db.Sequelize = Sequelize;
 db.sequelize = sequelize;
 
 db.tokens = require("./tokens.model.js")(sequelize, Sequelize);
-db.posts = require("./posts.model.js")(sequelize, Sequelize);
-db.comments = require("./comments.model.js")(sequelize, Sequelize);
 db.levels = require("./levels.model.js")(sequelize, Sequelize);
 db.banks = require("./banks.model.js")(sequelize, Sequelize);
 db.users = require("./users.model.js")(sequelize, Sequelize);
@@ -49,18 +47,6 @@ db.payment_methods = require("./payment_methods.model.js")(
   Sequelize
 );
 
-/**
-Create relationship
- - Posts have many comments
- - Comment have only one post
-*/
-
-db.posts.hasMany(db.comments, { as: "comments" });
-db.comments.belongsTo(db.posts, {
-  foreignKey: "postId",
-  as: "posts",
-});
-// ----------------------------
 //Relationship users
 db.users.belongsTo(db.banks, { foreignKey: "bank_id" });
 db.banks.hasMany(db.users, { foreignKey: "bank_id" });

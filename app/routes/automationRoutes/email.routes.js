@@ -8,6 +8,6 @@ module.exports = app => {
 
   router.post("/", auth, email.trigger);
 
-  app.use("/email/", router);
+  app.use("/automation/email/", router);
 
 };

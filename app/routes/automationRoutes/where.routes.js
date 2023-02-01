@@ -8,5 +8,5 @@ module.exports = app => {
 
   router.post("/:document/or", where.findOr);
 
-  app.use('/where/', auth, router);
+  app.use('/automation/where/', auth, router);
 };

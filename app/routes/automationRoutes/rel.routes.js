@@ -8,5 +8,5 @@ module.exports = app => {
 
   router.get("/:document/:document2/:id", rel.findOne);
 
-  app.use('/rel/', auth, router);
+  app.use('/automation/rel/', auth, router);
 };

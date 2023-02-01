@@ -16,5 +16,5 @@ module.exports = app => {
 
   router.delete("/:document", crud.deleteAll);
 
-  app.use('/crud/',auth, router);
+  app.use('/automation/crud/',auth, router);
 };

@@ -10,6 +10,6 @@ module.exports = app => {
 
   router.post("/photo", auth, file.upload);
 
-  app.use("/file/", router);
+  app.use("/automation/file/", router);
 
 };

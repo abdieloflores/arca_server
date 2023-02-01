@@ -87,5 +87,5 @@ module.exports = (app) => {
     })
   );
 
-  app.use("/", router);
+  app.use("/automation/", router);
 };

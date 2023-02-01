@@ -10,6 +10,6 @@ module.exports = app => {
 
   router.put("/:document/password", authenticated.updatePassword);
 
-  app.use("/authenticated/", auth, router);
+  app.use("/automation/authenticated/", auth, router);
 
 };

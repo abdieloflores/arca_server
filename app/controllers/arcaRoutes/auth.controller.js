@@ -8,7 +8,7 @@ const saltRounds = 10;
 const db = require("../../models");
 const Op = db.Sequelize.Op;
 
-exports.loginAuth = async (req, res) => {
+exports.loginUserAuth = async (req, res) => {
   try {
     if (!req.body.username || !req.body.password) {
       res.status(400).send({
@@ -30,7 +30,7 @@ exports.loginAuth = async (req, res) => {
       },
     };
 
-    const data = await db[req.params.document].findOne(condition);
+    const data = await db.users.findOne(condition);
 
     if (!data) {
       res.status(400).send({
@@ -57,7 +57,7 @@ exports.loginAuth = async (req, res) => {
   }
 };
 
-exports.createAuth = async (req, res) => {
+exports.createUser = async (req, res) => {
   try {
     if (!req.body.email || !req.body.password) {
       res.status(400).send({

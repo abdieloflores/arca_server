@@ -10,8 +10,9 @@ module.exports = {
         sponsor: 0,
         placement: null,
         username: "Ulyflores",
+        email: "admin@admin.com",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -23,7 +24,7 @@ module.exports = {
         placement: null,
         username: "Roger67",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3319706080",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -35,7 +36,7 @@ module.exports = {
         placement: null,
         username: "Rossy0681",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3321617482",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -47,7 +48,7 @@ module.exports = {
         placement: null,
         username: "Estela",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3329487693",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -59,7 +60,7 @@ module.exports = {
         placement: null,
         username: "Alexis",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3318354138",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -71,7 +72,7 @@ module.exports = {
         placement: 4,
         username: "JaimeFlores",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3313581192",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -83,7 +84,7 @@ module.exports = {
         placement: null,
         username: "Athziry2395",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3315768398",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -95,7 +96,7 @@ module.exports = {
         placement: 4,
         username: "Echenique0823",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8125664686",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -107,7 +108,7 @@ module.exports = {
         placement: 4,
         username: "eslayfer",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3318779264",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -119,7 +120,7 @@ module.exports = {
         placement: 5,
         username: "JORDY2597",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3313250333",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -131,7 +132,7 @@ module.exports = {
         placement: null,
         username: "Tigre357",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3311125566",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -143,7 +144,7 @@ module.exports = {
         placement: null,
         username: "Ale",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -155,7 +156,7 @@ module.exports = {
         placement: null,
         username: "Charly",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3312958589",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -167,7 +168,7 @@ module.exports = {
         placement: null,
         username: "Malelon123",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3328655380",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -179,7 +180,7 @@ module.exports = {
         placement: null,
         username: "Yeya",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3312958589",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -191,7 +192,7 @@ module.exports = {
         placement: null,
         username: "Panchito",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -203,7 +204,7 @@ module.exports = {
         placement: null,
         username: "Magdis1818",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3335976382",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -215,7 +216,7 @@ module.exports = {
         placement: null,
         username: "Refutr62",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3318373940",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -227,7 +228,7 @@ module.exports = {
         placement: null,
         username: "Angel",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -239,7 +240,7 @@ module.exports = {
         placement: null,
         username: "Gabysa",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3339659278",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -251,7 +252,7 @@ module.exports = {
         placement: null,
         username: "Milenario",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3317510048",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -263,7 +264,7 @@ module.exports = {
         placement: null,
         username: "Pansho64",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3314804101",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -275,7 +276,7 @@ module.exports = {
         placement: null,
         username: "elinoriega",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2283415475",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -287,7 +288,7 @@ module.exports = {
         placement: null,
         username: "fernandotv",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7223644300",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -299,7 +300,7 @@ module.exports = {
         placement: null,
         username: "exito64",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9821066999",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -311,7 +312,7 @@ module.exports = {
         placement: 25,
         username: "carturo",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9373691326",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -323,7 +324,7 @@ module.exports = {
         placement: null,
         username: "Arturo71",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8334372884",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -335,7 +336,7 @@ module.exports = {
         placement: null,
         username: "Mugatuz",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3321219765",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -347,7 +348,7 @@ module.exports = {
         placement: null,
         username: "Maribelly",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2831000145",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -359,7 +360,7 @@ module.exports = {
         placement: null,
         username: "Tereesc",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "4444236052",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -371,7 +372,7 @@ module.exports = {
         placement: null,
         username: "Vickyea",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "4961221736",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -383,7 +384,7 @@ module.exports = {
         placement: null,
         username: "Profejb",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3751047773",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -395,7 +396,7 @@ module.exports = {
         placement: null,
         username: "Profelgm",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3333776031",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -407,7 +408,7 @@ module.exports = {
         placement: 33,
         username: "Josegonza",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3221217691",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -419,7 +420,7 @@ module.exports = {
         placement: null,
         username: "LILICAR",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3221239607",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -431,7 +432,7 @@ module.exports = {
         placement: null,
         username: "antmarcar",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3751462873",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -443,7 +444,7 @@ module.exports = {
         placement: null,
         username: "Alponsh0",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3331377164",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -455,7 +456,7 @@ module.exports = {
         placement: null,
         username: "termerb",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "4581049219",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -467,7 +468,7 @@ module.exports = {
         placement: null,
         username: "jdobleh",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9932244312",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -479,7 +480,7 @@ module.exports = {
         placement: 27,
         username: "Madecare",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6461293100",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -491,7 +492,7 @@ module.exports = {
         placement: null,
         username: "Iperez7",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8681870727",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -503,7 +504,7 @@ module.exports = {
         placement: 26,
         username: "Cereza67",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8711352483",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -515,7 +516,7 @@ module.exports = {
         placement: null,
         username: "Mines13",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8181174862",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -527,7 +528,7 @@ module.exports = {
         placement: 43,
         username: "miranda12",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6567564441",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -539,7 +540,7 @@ module.exports = {
         placement: null,
         username: "Fer12",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6561373191",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -551,7 +552,7 @@ module.exports = {
         placement: null,
         username: "Mariel18",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6562752940",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -563,7 +564,7 @@ module.exports = {
         placement: null,
         username: "Rita63",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6562747854",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -575,7 +576,7 @@ module.exports = {
         placement: null,
         username: "sanguz22",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2294665150",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -587,7 +588,7 @@ module.exports = {
         placement: null,
         username: "nancy56",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2293230632",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -599,7 +600,7 @@ module.exports = {
         placement: null,
         username: "edy45",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2293912027",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -611,7 +612,7 @@ module.exports = {
         placement: null,
         username: "profe43",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6644045977",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -623,7 +624,7 @@ module.exports = {
         placement: null,
         username: "pati1968",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6141362363",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -635,7 +636,7 @@ module.exports = {
         placement: null,
         username: "Raul01",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8717091293",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -647,7 +648,7 @@ module.exports = {
         placement: null,
         username: "CHIKALINDA",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5541360248",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -659,7 +660,7 @@ module.exports = {
         placement: null,
         username: "Antonio0405",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5516062612",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -671,7 +672,7 @@ module.exports = {
         placement: 55,
         username: "titan73",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5559675018",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -683,7 +684,7 @@ module.exports = {
         placement: null,
         username: "CHARLY56",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5530689278",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -695,7 +696,7 @@ module.exports = {
         placement: null,
         username: "Mayito65",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7291151316",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -707,7 +708,7 @@ module.exports = {
         placement: null,
         username: "Maubeg",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7291155063",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -719,7 +720,7 @@ module.exports = {
         placement: null,
         username: "Marcalt",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2227158660",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -731,7 +732,7 @@ module.exports = {
         placement: null,
         username: "Micael3482",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2221394995",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -743,7 +744,7 @@ module.exports = {
         placement: null,
         username: "C@ndy",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7227448359",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -755,7 +756,7 @@ module.exports = {
         placement: null,
         username: "ngxl21",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2213199030",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -767,7 +768,7 @@ module.exports = {
         placement: null,
         username: "Negociosf",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5527100223",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -779,7 +780,7 @@ module.exports = {
         placement: null,
         username: "Antony08",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5541870552",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -791,7 +792,7 @@ module.exports = {
         placement: null,
         username: "Gaboteam",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5615870976",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -803,7 +804,7 @@ module.exports = {
         placement: null,
         username: "Normis777",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9995568833",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -815,7 +816,7 @@ module.exports = {
         placement: 66,
         username: "Exitototal",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2227720419",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -827,7 +828,7 @@ module.exports = {
         placement: null,
         username: "Altkasvik",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9211026597",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -839,7 +840,7 @@ module.exports = {
         placement: null,
         username: "Bariteam",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9212460760",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -851,7 +852,7 @@ module.exports = {
         placement: null,
         username: "Fabis94",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5522569687",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -863,7 +864,7 @@ module.exports = {
         placement: null,
         username: "vimavi",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5573726615",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -875,7 +876,7 @@ module.exports = {
         placement: null,
         username: "Maru0818",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5514008639",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -887,7 +888,7 @@ module.exports = {
         placement: null,
         username: "Zamo2150",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8999840646",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -899,7 +900,7 @@ module.exports = {
         placement: null,
         username: "RAVA 5180",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5573080433",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -911,7 +912,7 @@ module.exports = {
         placement: null,
         username: "Gladys",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5527526610",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -923,7 +924,7 @@ module.exports = {
         placement: null,
         username: "Evita1987",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5539834045",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -935,7 +936,7 @@ module.exports = {
         placement: null,
         username: "princesa7",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5620416418",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -947,7 +948,7 @@ module.exports = {
         placement: null,
         username: "Estrella",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5514107188",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -959,7 +960,7 @@ module.exports = {
         placement: null,
         username: "Maravilloso",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5581821299",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -971,7 +972,7 @@ module.exports = {
         placement: null,
         username: "ESTHER63",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5538198056",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -983,7 +984,7 @@ module.exports = {
         placement: null,
         username: "Kamil",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5620416518",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -995,7 +996,7 @@ module.exports = {
         placement: null,
         username: "Skay86",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5620416418",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1007,7 +1008,7 @@ module.exports = {
         placement: null,
         username: "Escami",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5573726548",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1019,7 +1020,7 @@ module.exports = {
         placement: null,
         username: "Markito",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5563309610",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1031,7 +1032,7 @@ module.exports = {
         placement: null,
         username: "mvzsandra",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5559398786",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1043,7 +1044,7 @@ module.exports = {
         placement: null,
         username: "Fabiola04",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5522569687",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1055,7 +1056,7 @@ module.exports = {
         placement: null,
         username: "Malena18",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5564371963",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1067,7 +1068,7 @@ module.exports = {
         placement: null,
         username: "Dany290584",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5537979670",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1079,7 +1080,7 @@ module.exports = {
         placement: null,
         username: "PrizLoyola98",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5542973593",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1091,7 +1092,7 @@ module.exports = {
         placement: null,
         username: "Almanolas77",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5533489884",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1103,7 +1104,7 @@ module.exports = {
         placement: null,
         username: "Viki0622",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7721083611",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1115,7 +1116,7 @@ module.exports = {
         placement: null,
         username: "BELLYHH",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5542867860",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1127,7 +1128,7 @@ module.exports = {
         placement: null,
         username: "MEGALANA",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9712620475",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1139,7 +1140,7 @@ module.exports = {
         placement: null,
         username: "MAGO1019",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9711302952",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1151,7 +1152,7 @@ module.exports = {
         placement: null,
         username: "Florecita22",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281506615",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1163,7 +1164,7 @@ module.exports = {
         placement: null,
         username: "Sam22",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281199256",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1175,7 +1176,7 @@ module.exports = {
         placement: 97,
         username: "dorita23",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281445493",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1187,7 +1188,7 @@ module.exports = {
         placement: null,
         username: "rosaura70",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2283470787",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1199,7 +1200,7 @@ module.exports = {
         placement: null,
         username: "Luzma3",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2282955840",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1211,7 +1212,7 @@ module.exports = {
         placement: null,
         username: "Gris2022",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281319538",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1223,7 +1224,7 @@ module.exports = {
         placement: null,
         username: "XimenadelaO",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281258853",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1235,7 +1236,7 @@ module.exports = {
         placement: null,
         username: "GANAYA",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5531329992",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1247,7 +1248,7 @@ module.exports = {
         placement: null,
         username: "Diamante62",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6444208981",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1259,7 +1260,7 @@ module.exports = {
         placement: 104,
         username: "oscarteam",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "4491169284",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1271,7 +1272,7 @@ module.exports = {
         placement: null,
         username: "yoyisexitosa",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6671275698",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1283,7 +1284,7 @@ module.exports = {
         placement: null,
         username: "Gamma77",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8334627731",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1295,7 +1296,7 @@ module.exports = {
         placement: null,
         username: "Lara74",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9612995323",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1307,7 +1308,7 @@ module.exports = {
         placement: null,
         username: "Johs",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5560329244",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1319,7 +1320,7 @@ module.exports = {
         placement: null,
         username: "SuGar",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5517296214",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1331,7 +1332,7 @@ module.exports = {
         placement: null,
         username: "Lifepasion",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9842627808",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1343,7 +1344,7 @@ module.exports = {
         placement: null,
         username: "creandograndeza",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9993665697",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1355,7 +1356,7 @@ module.exports = {
         placement: 112,
         username: "Unidostehuacan",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2382527054",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1367,7 +1368,7 @@ module.exports = {
         placement: null,
         username: "Karoarca$",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2381238745",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1379,7 +1380,7 @@ module.exports = {
         placement: null,
         username: "Sandraluz",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8335490035",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1391,7 +1392,7 @@ module.exports = {
         placement: null,
         username: "Josefin26",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "4525204763",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1403,7 +1404,7 @@ module.exports = {
         placement: null,
         username: "MARCO12345",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7621076488",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1415,7 +1416,7 @@ module.exports = {
         placement: null,
         username: "Everardo68",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6442122544",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1427,7 +1428,7 @@ module.exports = {
         placement: null,
         username: "Palazio1",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6681715207",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1439,7 +1440,7 @@ module.exports = {
         placement: null,
         username: "kspv",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6677468780",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1451,7 +1452,7 @@ module.exports = {
         placement: null,
         username: "jjhp23",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9671431450",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1463,7 +1464,7 @@ module.exports = {
         placement: null,
         username: "elvianet",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5529392039",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1475,7 +1476,7 @@ module.exports = {
         placement: null,
         username: "Latty@grande ",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8123507464",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1487,7 +1488,7 @@ module.exports = {
         placement: null,
         username: "Danipoter",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6673889457",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1499,7 +1500,7 @@ module.exports = {
         placement: null,
         username: "rossmuñoz/",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5570833614",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1511,7 +1512,7 @@ module.exports = {
         placement: null,
         username: "Lash2415",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6311103007",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1523,7 +1524,7 @@ module.exports = {
         placement: null,
         username: "SHOO",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6311117331",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1535,7 +1536,7 @@ module.exports = {
         placement: null,
         username: "Aguilareal",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9933780403",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1547,7 +1548,7 @@ module.exports = {
         placement: null,
         username: "Gavivar60",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9932454647",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1559,7 +1560,7 @@ module.exports = {
         placement: null,
         username: "mota1975",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9931503782",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1571,7 +1572,7 @@ module.exports = {
         placement: null,
         username: "Chocoleon2013",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9931149864",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1583,7 +1584,7 @@ module.exports = {
         placement: 127,
         username: "BLACKPOWER",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "523921122059",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1595,7 +1596,7 @@ module.exports = {
         placement: null,
         username: "felipe0000",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6623484899",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1607,7 +1608,7 @@ module.exports = {
         placement: null,
         username: "Mary2023",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9931177256",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1619,7 +1620,7 @@ module.exports = {
         placement: null,
         username: "ManoloML",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7223065134",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1631,7 +1632,7 @@ module.exports = {
         placement: null,
         username: "LuzMary",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9321196778",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1643,7 +1644,7 @@ module.exports = {
         placement: null,
         username: "elviagarcia",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281738359",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1655,7 +1656,7 @@ module.exports = {
         placement: null,
         username: "vikyhernandez",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2282942440",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1667,7 +1668,7 @@ module.exports = {
         placement: null,
         username: "abyhernandez",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2283383007",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1679,7 +1680,7 @@ module.exports = {
         placement: null,
         username: "paloma*",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281112671",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1691,7 +1692,7 @@ module.exports = {
         placement: null,
         username: "evegave",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9231381326",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1703,7 +1704,7 @@ module.exports = {
         placement: null,
         username: "Merit",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "9231089903",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1715,7 +1716,7 @@ module.exports = {
         placement: null,
         username: "Silcamar",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7223373985",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1727,7 +1728,7 @@ module.exports = {
         placement: null,
         username: "erickherreramtz",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281093656",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1739,7 +1740,7 @@ module.exports = {
         placement: null,
         username: "lupitalopezreyes80",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2282564294",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1751,7 +1752,7 @@ module.exports = {
         placement: null,
         username: "erickherrera2003",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2283029246",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1763,7 +1764,7 @@ module.exports = {
         placement: null,
         username: "antoniojmz2023",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281580158",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1775,7 +1776,7 @@ module.exports = {
         placement: null,
         username: "blancaalvarezc",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5518564857",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1787,7 +1788,7 @@ module.exports = {
         placement: null,
         username: "andressanchezm",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5565558470",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1799,7 +1800,7 @@ module.exports = {
         placement: null,
         username: "Ololazo",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2291252172",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1811,7 +1812,7 @@ module.exports = {
         placement: null,
         username: "Enriquegp",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2282271439",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1823,7 +1824,7 @@ module.exports = {
         placement: null,
         username: "Carlosajm",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7711342976",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1835,7 +1836,7 @@ module.exports = {
         placement: null,
         username: "Aide771",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7711365549",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1847,7 +1848,7 @@ module.exports = {
         placement: null,
         username: "Ángel2000",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6566516721",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1859,7 +1860,7 @@ module.exports = {
         placement: null,
         username: "mpalafox",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2281507224",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1871,7 +1872,7 @@ module.exports = {
         placement: null,
         username: "Rocíov680901",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2282128503",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1883,7 +1884,7 @@ module.exports = {
         placement: null,
         username: "Aguilanegra",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3322420089",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1895,7 +1896,7 @@ module.exports = {
         placement: 157,
         username: "Carlitos28",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2711139016",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1907,7 +1908,7 @@ module.exports = {
         placement: null,
         username: "Betty20",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3310270696",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1919,7 +1920,7 @@ module.exports = {
         placement: null,
         username: "Cecilia",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3313959080",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1931,7 +1932,7 @@ module.exports = {
         placement: null,
         username: "Eusebia",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2226121695",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1943,7 +1944,7 @@ module.exports = {
         placement: null,
         username: "Rafael",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2228027202",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1955,7 +1956,7 @@ module.exports = {
         placement: null,
         username: "GILBERTO",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2225633807",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1967,7 +1968,7 @@ module.exports = {
         placement: null,
         username: "PETRA",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2441191066",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1979,7 +1980,7 @@ module.exports = {
         placement: null,
         username: "GUILLERMO",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2223325580",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -1991,7 +1992,7 @@ module.exports = {
         placement: null,
         username: "Lucio",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2225773304",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2003,7 +2004,7 @@ module.exports = {
         placement: null,
         username: "Charbel",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2217813791",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2015,7 +2016,7 @@ module.exports = {
         placement: null,
         username: "Analaura",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7341242270",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2027,7 +2028,7 @@ module.exports = {
         placement: null,
         username: "ELIZABETH",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2224613826",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2039,7 +2040,7 @@ module.exports = {
         placement: null,
         username: "RICARDORMRZ",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2227598283",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2051,7 +2052,7 @@ module.exports = {
         placement: null,
         username: "Cirnes",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2224412950",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2063,7 +2064,7 @@ module.exports = {
         placement: null,
         username: "MIXCOATL",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2225644052",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2075,7 +2076,7 @@ module.exports = {
         placement: null,
         username: "ELENAGLEZ",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2211424799",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2087,7 +2088,7 @@ module.exports = {
         placement: null,
         username: "EMMANUELTEL",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2225247042",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2099,7 +2100,7 @@ module.exports = {
         placement: null,
         username: "MIRIAN",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2225648474",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2111,7 +2112,7 @@ module.exports = {
         placement: null,
         username: "MADIAZ",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2224736255",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2123,7 +2124,7 @@ module.exports = {
         placement: null,
         username: "GUILLEZ",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2221344864",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2135,7 +2136,7 @@ module.exports = {
         placement: null,
         username: "BELEM",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2227201901",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2147,7 +2148,7 @@ module.exports = {
         placement: null,
         username: "ENEDINA",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2211095481",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2159,7 +2160,7 @@ module.exports = {
         placement: null,
         username: "CARMENDOMINGUEZ",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2224571383",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2171,7 +2172,7 @@ module.exports = {
         placement: null,
         username: "IAN",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2227201901",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2183,7 +2184,7 @@ module.exports = {
         placement: null,
         username: "REMEDIOS",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2223125984",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2195,7 +2196,7 @@ module.exports = {
         placement: null,
         username: "MAGUADALUPE",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "7715575598",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2207,7 +2208,7 @@ module.exports = {
         placement: null,
         username: "CASCO",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2228296687",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2219,7 +2220,7 @@ module.exports = {
         placement: null,
         username: "Lizette",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2231,7 +2232,7 @@ module.exports = {
         placement: null,
         username: "Lissette",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2243,7 +2244,7 @@ module.exports = {
         placement: null,
         username: "Arcelia",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2224354336",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2255,7 +2256,7 @@ module.exports = {
         placement: null,
         username: "Francisco",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "2441375289",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2267,7 +2268,7 @@ module.exports = {
         placement: null,
         username: "ElenaGalvan",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "8333009334",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2279,7 +2280,7 @@ module.exports = {
         placement: null,
         username: "Sanjuana",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "5639737896",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2291,7 +2292,7 @@ module.exports = {
         placement: 187,
         username: "MarioReding",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "333488867",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2303,7 +2304,7 @@ module.exports = {
         placement: 191,
         username: "Goretti",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3334842197",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2315,7 +2316,7 @@ module.exports = {
         placement: null,
         username: "Erendira",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3314852099",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2327,7 +2328,7 @@ module.exports = {
         placement: 193,
         username: "WILFRIDO58",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3327932217",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2339,7 +2340,7 @@ module.exports = {
         placement: 193,
         username: "JPablo",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3337052735",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2351,7 +2352,7 @@ module.exports = {
         placement: null,
         username: "MRayas",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3315671047",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2363,7 +2364,7 @@ module.exports = {
         placement: null,
         username: "Coralito333",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3331996776",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2375,7 +2376,7 @@ module.exports = {
         placement: null,
         username: "Larosa",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3334533428",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2387,7 +2388,7 @@ module.exports = {
         placement: null,
         username: "HADDEZ",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3318656233",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2399,7 +2400,7 @@ module.exports = {
         placement: null,
         username: "GGuille",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3324885129",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2411,7 +2412,7 @@ module.exports = {
         placement: 193,
         username: "HRoman77",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3337803228",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2423,7 +2424,7 @@ module.exports = {
         placement: null,
         username: "230112",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2435,7 +2436,7 @@ module.exports = {
         placement: null,
         username: "Carmelita",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3310100625",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2447,7 +2448,7 @@ module.exports = {
         placement: null,
         username: "Gabina1934",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3336770511",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2459,7 +2460,7 @@ module.exports = {
         placement: null,
         username: "Dana@105",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3234562888",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2471,7 +2472,7 @@ module.exports = {
         placement: null,
         username: "Camila28$",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3332315364",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2483,7 +2484,7 @@ module.exports = {
         placement: null,
         username: "Lupis@25",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6562150859",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2495,7 +2496,7 @@ module.exports = {
         placement: null,
         username: "Tony0322",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6561809509",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2507,7 +2508,7 @@ module.exports = {
         placement: null,
         username: "Guadalupe2004$",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6561356207",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2519,7 +2520,7 @@ module.exports = {
         placement: null,
         username: "marga62",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "6621121970",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2531,7 +2532,7 @@ module.exports = {
         placement: null,
         username: "Adamaris28$",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3334630112",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2543,7 +2544,7 @@ module.exports = {
         placement: null,
         username: "Paty2021$",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3334960885",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2555,7 +2556,7 @@ module.exports = {
         placement: null,
         username: "Malu$56",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3323381354",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
@@ -2567,7 +2568,7 @@ module.exports = {
         placement: null,
         username: "Lalo40",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
         phone: "3313032061",
         image_link:
           "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
