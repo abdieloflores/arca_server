@@ -3,12 +3,12 @@ const Op = db.Sequelize.Op;
 
 exports.findAll = async (req, res) => {
   try {
-    var condition = {
+    let condition = {
       order: [["id", "DESC"]], // ASC, DESC
       include: [req.params.document2],
     };
-    var offset = parseInt(req.query.offset);
-    var limit = parseInt(req.query.limit);
+    let offset = parseInt(req.query.offset);
+    let limit = parseInt(req.query.limit);
 
     if (offset >= 0 && limit >= 0) {
       condition.offset = offset;
@@ -28,7 +28,7 @@ exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
 
-    var condition = {
+    let condition = {
       include: [req.params.document2],
     };
 

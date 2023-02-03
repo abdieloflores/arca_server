@@ -4,13 +4,13 @@ module.exports = (sequelize, Sequelize) => {
     {
       user_id: {
         type: Sequelize.BIGINT(20),
-        primaryKey: true,
         allowNull: false,
+        primaryKey: true,
       },
       period_id: {
         type: Sequelize.BIGINT(20),
-        primaryKey: true,
         allowNull: false,
+        primaryKey: true,
       },
       level_id: {
         type: Sequelize.BIGINT(20),

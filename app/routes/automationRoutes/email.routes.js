@@ -4,7 +4,7 @@ module.exports = app => {
 
   const email = require("../../controllers/automationControllers/email.controller");
 
-  var router = require("express").Router();
+  let router = require("express").Router();
 
   router.post("/", auth, email.trigger);
 

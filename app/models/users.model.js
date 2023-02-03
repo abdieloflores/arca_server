@@ -43,8 +43,8 @@ module.exports = (sequelize, Sequelize) => {
         type: Sequelize.STRING,
         unique: true,
         validate: {
-          isEmail: true, 
-        }
+          isEmail: true,
+        },
       },
       phone: {
         type: Sequelize.STRING,
@@ -58,11 +58,11 @@ module.exports = (sequelize, Sequelize) => {
       bank_id: {
         type: Sequelize.BIGINT(20),
       },
-      bank_account:{
+      bank_account: {
         type: Sequelize.BIGINT(20),
       },
-      bank_card:{
-        type: Sequelize.STRING
+      bank_card: {
+        type: Sequelize.STRING,
       },
       interbank_key: {
         type: Sequelize.STRING,

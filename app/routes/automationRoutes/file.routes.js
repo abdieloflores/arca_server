@@ -4,7 +4,7 @@ module.exports = app => {
 
   const file = require("../../controllers/automationControllers/file.controller");
 
-  var router = require("express").Router();
+  let router = require("express").Router();
 
   router.get("/download/:name", file.download);
 

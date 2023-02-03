@@ -3,15 +3,15 @@ const Op = db.Sequelize.Op;
 
 exports.findAnd = async (req, res) => {
   try {
-    var condition = {
+    let condition = {
       where: {
         [Op.and]: req.body,
       },
       order: [["id", "DESC"]], // ASC, DESC
     };
 
-    var offset = parseInt(req.query.offset);
-    var limit = parseInt(req.query.limit);
+    let offset = parseInt(req.query.offset);
+    let limit = parseInt(req.query.limit);
 
     if (offset >= 0 && limit >= 0) {
       condition.offset = offset;
@@ -29,15 +29,15 @@ exports.findAnd = async (req, res) => {
 
 exports.findOr = async (req, res) => {
   try {
-    var condition = {
+    let condition = {
       where: {
         [Op.or]: req.body,
       },
       order: [["id", "DESC"]], // ASC, DESC
     };
 
-    var offset = parseInt(req.query.offset);
-    var limit = parseInt(req.query.limit);
+    let offset = parseInt(req.query.offset);
+    let limit = parseInt(req.query.limit);
 
     if (offset >= 0 && limit >= 0) {
       condition.offset = offset;

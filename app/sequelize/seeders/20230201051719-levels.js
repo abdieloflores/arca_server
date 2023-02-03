@@ -16,6 +16,36 @@ module.exports = {
         image: "",
         color: "#2ECC71",
       },
+      {
+        name: "Bronce",
+        description: "Avance de rango.",
+        image: "",
+        color: "#2ECC71",
+      },
+      {
+        name: "Plata",
+        description: "Avance de rango.",
+        image: "",
+        color: "#2ECC71",
+      },
+      {
+        name: "Oro",
+        description: "Avance de rango.",
+        image: "",
+        color: "#2ECC71",
+      },
+      {
+        name: "Platino",
+        description: "Avance de rango.",
+        image: "",
+        color: "#2ECC71",
+      },
+      {
+        name: "Diamante",
+        description: "Avance de rango.",
+        image: "",
+        color: "#2ECC71",
+      },
     ]);
   },
 

@@ -17,7 +17,7 @@ exports.loginAuth = async (req, res) => {
       return;
     }
 
-    var condition = {
+    let condition = {
       where: {
         [Op.or]: [
           {
@@ -66,7 +66,7 @@ exports.createAuth = async (req, res) => {
       return;
     }
 
-    var condition = {
+    let condition = {
       where: {
         [Op.and]: [
           {
@@ -166,7 +166,7 @@ exports.sendResetCodeInEmail = async (req, res) => {
       return;
     }
 
-    var condition = {
+    let condition = {
       where: {
         [Op.or]: [
           {
@@ -217,7 +217,7 @@ exports.resetPassword = async (req, res) => {
       return;
     }
 
-    var condition = {
+    let condition = {
       where: {
         [Op.and]: [
           {
@@ -320,7 +320,7 @@ exports.createAuthWithPhoneVerify = async (req, res) => {
       return;
     }
 
-    var condition = {
+    let condition = {
       where: {
         [Op.and]: {
           phone: req.body.phone,

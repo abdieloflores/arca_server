@@ -4,7 +4,7 @@ module.exports = app => {
 
   const authenticated = require("../../controllers/automationControllers/authenticated.controller");
 
-  var router = require("express").Router();
+  let router = require("express").Router();
 
   router.put("/:document/profile", authenticated.updateProfile);
 

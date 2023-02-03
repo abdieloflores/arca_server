@@ -2,7 +2,7 @@ module.exports = app => {
   const auth = require("../../middlewares/auth");
   const crud = require("../../controllers/automationControllers/crud.controller");
 
-  var router = require("express").Router();
+  let router = require("express").Router();
 
   router.post("/:document", crud.create);
 

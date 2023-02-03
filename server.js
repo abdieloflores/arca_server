@@ -7,7 +7,7 @@ const { exec } = require("child_process");
 global.__basedir = __dirname;
 
 const cors_ = require("./app/config/cors.config");
-var corsOptions = {
+let corsOptions = {
   origin: cors_.allowed_origins,
 };
 
@@ -50,6 +50,7 @@ app.get("/", (req, res) => {
   res.json({ message: "Welcome" });
 });
 
+// Automation routes
 require("./app/routes/automationRoutes/auth.routes")(app);
 require("./app/routes/automationRoutes/social.routes")(app);
 require("./app/routes/automationRoutes/authenticated.routes")(app);
@@ -58,6 +59,25 @@ require("./app/routes/automationRoutes/where.routes")(app);
 require("./app/routes/automationRoutes/file.routes")(app);
 require("./app/routes/automationRoutes/email.routes")(app);
 require("./app/routes/automationRoutes/rel.routes")(app);
+
+
+// MLM routes
+require("./app/routes/mlm/admin_roles.routes")(app);
+require("./app/routes/mlm/admins.routes")(app);
+require("./app/routes/mlm/auth.routes")(app);
+require("./app/routes/mlm/banks.routes")(app);
+require("./app/routes/mlm/categories.routes")(app);
+// require("./app/routes/mlm/commission_types.routes")(app);
+// require("./app/routes/mlm/commissions.routes")(app);
+require("./app/routes/mlm/items.routes")(app);
+require("./app/routes/mlm/levels.routes")(app);
+// require("./app/routes/mlm/order_details.routes")(app);
+require("./app/routes/mlm/orders.routes")(app);
+require("./app/routes/mlm/payment_methods.routes")(app);
+require("./app/routes/mlm/periods.routes")(app);
+require("./app/routes/mlm/settings.routes")(app);
+require("./app/routes/mlm/user_levels.routes")(app);
+require("./app/routes/mlm/users.routes")(app);
 
 require("./app/routes/app.routes")(app);
 

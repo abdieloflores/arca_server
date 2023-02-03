@@ -8,7 +8,7 @@ module.exports = {
         name: "OMAR ULISES FLORES GONZALEZ",
         first_lastname: "-",
         sponsor: 0,
-        placement: null,
+        placement: 0,
         username: "Ulyflores",
         email: "admin@admin.com",
         password:
@@ -21,7 +21,7 @@ module.exports = {
         name: "OMAR ROGELIO FLORES CORRAL",
         first_lastname: "-",
         sponsor: 1,
-        placement: null,
+        placement: 1,
         username: "Roger67",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -33,7 +33,7 @@ module.exports = {
         name: "MARIA ROCIO DE JESUS SANCHEZ AYALA",
         first_lastname: "-",
         sponsor: 2,
-        placement: null,
+        placement: 2,
         username: "Rossy0681",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -45,7 +45,7 @@ module.exports = {
         name: "BLANCA ESTELA SANCHEZ CERVANTES",
         first_lastname: "-",
         sponsor: 3,
-        placement: null,
+        placement: 3,
         username: "Estela",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -57,7 +57,7 @@ module.exports = {
         name: "RICARDO ALEXIS OVIEDO LOPEZ",
         first_lastname: "-",
         sponsor: 3,
-        placement: null,
+        placement: 3,
         username: "Alexis",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -81,7 +81,7 @@ module.exports = {
         name: "ATHZIRY KRISELL FLORES LOPEZ",
         first_lastname: "-",
         sponsor: 6,
-        placement: null,
+        placement: 6,
         username: "Athziry2395",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -129,7 +129,7 @@ module.exports = {
         name: "GERARDO ROBERTO SANTOS GOMEZ",
         first_lastname: "-",
         sponsor: 1,
-        placement: null,
+        placement: 1,
         username: "Tigre357",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -141,7 +141,7 @@ module.exports = {
         name: "ALEJANDRA PAOLA SANTOS GOMEZ",
         first_lastname: "-",
         sponsor: 11,
-        placement: null,
+        placement: 11,
         username: "Ale",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -153,7 +153,7 @@ module.exports = {
         name: "CARLOS RAFAEL RAMIREZ OCHOA",
         first_lastname: "-",
         sponsor: 11,
-        placement: null,
+        placement: 11,
         username: "Charly",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -165,7 +165,7 @@ module.exports = {
         name: "MARIA ELENA MURILLO GLADIN",
         first_lastname: "-",
         sponsor: 13,
-        placement: null,
+        placement: 13,
         username: "Malelon123",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -177,7 +177,7 @@ module.exports = {
         name: "MIREYA VAZQUEZ FRANCO",
         first_lastname: "-",
         sponsor: 13,
-        placement: null,
+        placement: 13,
         username: "Yeya",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -189,7 +189,7 @@ module.exports = {
         name: "FRANCISCO DE NENA",
         first_lastname: "-",
         sponsor: 14,
-        placement: null,
+        placement: 14,
         username: "Panchito",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -201,7 +201,7 @@ module.exports = {
         name: "MAGDALENA CARRILLO CERVERA",
         first_lastname: "-",
         sponsor: 14,
-        placement: null,
+        placement: 14,
         username: "Magdis1818",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -213,7 +213,7 @@ module.exports = {
         name: "REFUGIO TORRES RODRIGUEZ",
         first_lastname: "-",
         sponsor: 14,
-        placement: null,
+        placement: 14,
         username: "Refutr62",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -225,7 +225,7 @@ module.exports = {
         name: "ANGEL ADRIAN SANTOS GOMEZ",
         first_lastname: "-",
         sponsor: 11,
-        placement: null,
+        placement: 11,
         username: "Angel",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -237,7 +237,7 @@ module.exports = {
         name: "GABRIELA GUILLERMINA PEREZ SANDOVAL",
         first_lastname: "-",
         sponsor: 1,
-        placement: null,
+        placement: 1,
         username: "Gabysa",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -249,7 +249,7 @@ module.exports = {
         name: "AMRAM ESAU DIAZ FERNANDEZ",
         first_lastname: "-",
         sponsor: 20,
-        placement: null,
+        placement: 20,
         username: "Milenario",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -261,7 +261,7 @@ module.exports = {
         name: "FRANCISCO JAVIER SOTO GARCÍA",
         first_lastname: "-",
         sponsor: 21,
-        placement: null,
+        placement: 21,
         username: "Pansho64",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -273,7 +273,7 @@ module.exports = {
         name: "ELVIA ELIZABETH NORIEGA GARCIA",
         first_lastname: "-",
         sponsor: 21,
-        placement: null,
+        placement: 21,
         username: "elinoriega",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -285,7 +285,7 @@ module.exports = {
         name: "FERNANDO TRUEBA VALDES",
         first_lastname: "-",
         sponsor: 23,
-        placement: null,
+        placement: 23,
         username: "fernandotv",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -297,7 +297,7 @@ module.exports = {
         name: "ANGEL SANTIAGO NOVELO ZAPATA",
         first_lastname: "-",
         sponsor: 24,
-        placement: null,
+        placement: 24,
         username: "exito64",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -321,7 +321,7 @@ module.exports = {
         name: "ARTURO ROBLES OLVERA",
         first_lastname: "-",
         sponsor: 26,
-        placement: null,
+        placement: 26,
         username: "Arturo71",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -333,7 +333,7 @@ module.exports = {
         name: "JOSE MARIA GONZALEZ INIGUEZ",
         first_lastname: "-",
         sponsor: 27,
-        placement: null,
+        placement: 27,
         username: "Mugatuz",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -345,7 +345,7 @@ module.exports = {
         name: "MARIBEL ANDRADE USCANGA",
         first_lastname: "-",
         sponsor: 28,
-        placement: null,
+        placement: 28,
         username: "Maribelly",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -357,7 +357,7 @@ module.exports = {
         name: "TERESA ESCOBEDO ALVISO",
         first_lastname: "-",
         sponsor: 29,
-        placement: null,
+        placement: 29,
         username: "Tereesc",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -369,7 +369,7 @@ module.exports = {
         name: "VIRGINIA ESCOBEDO ALVISO",
         first_lastname: "-",
         sponsor: 30,
-        placement: null,
+        placement: 30,
         username: "Vickyea",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -381,7 +381,7 @@ module.exports = {
         name: "JOSE LUIS JIMENEZ BUENROSTRO",
         first_lastname: "-",
         sponsor: 31,
-        placement: null,
+        placement: 31,
         username: "Profejb",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -393,7 +393,7 @@ module.exports = {
         name: "LAURA GALVAN MONTES",
         first_lastname: "-",
         sponsor: 32,
-        placement: null,
+        placement: 32,
         username: "Profelgm",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -417,7 +417,7 @@ module.exports = {
         name: "LILIANA CARBALLO CABRERA",
         first_lastname: "-",
         sponsor: 34,
-        placement: null,
+        placement: 34,
         username: "LILICAR",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -429,7 +429,7 @@ module.exports = {
         name: "ANTONIO MARTIN CARO",
         first_lastname: "-",
         sponsor: 32,
-        placement: null,
+        placement: 32,
         username: "antmarcar",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -441,7 +441,7 @@ module.exports = {
         name: "ALFONSO GUTIERREZ BEAS",
         first_lastname: "-",
         sponsor: 32,
-        placement: null,
+        placement: 32,
         username: "Alponsh0",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -453,7 +453,7 @@ module.exports = {
         name: "GUMERCINDA MERCADO BERMUDEZ",
         first_lastname: "-",
         sponsor: 30,
-        placement: null,
+        placement: 30,
         username: "termerb",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -465,7 +465,7 @@ module.exports = {
         name: "JORGE HERNANDEZ HERNANDEZ",
         first_lastname: "-",
         sponsor: 29,
-        placement: null,
+        placement: 29,
         username: "jdobleh",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -489,7 +489,7 @@ module.exports = {
         name: "ISIDRO PEREZ HERNANDEZ",
         first_lastname: "-",
         sponsor: 26,
-        placement: null,
+        placement: 26,
         username: "Iperez7",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -513,7 +513,7 @@ module.exports = {
         name: "MARIA INES SANDOVAL CERDA",
         first_lastname: "-",
         sponsor: 42,
-        placement: null,
+        placement: 42,
         username: "Mines13",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -537,7 +537,7 @@ module.exports = {
         name: "DANIELA CHAVEZ MIRANDA",
         first_lastname: "-",
         sponsor: 44,
-        placement: null,
+        placement: 44,
         username: "Fer12",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -549,7 +549,7 @@ module.exports = {
         name: "MARIA ELENA REYES ESCOBEDO",
         first_lastname: "-",
         sponsor: 45,
-        placement: null,
+        placement: 45,
         username: "Mariel18",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -561,7 +561,7 @@ module.exports = {
         name: "RITA VELIA MANDUJANO ALVAREZ",
         first_lastname: "-",
         sponsor: 45,
-        placement: null,
+        placement: 45,
         username: "Rita63",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -573,7 +573,7 @@ module.exports = {
         name: "JOSE LUCIO SANCHEZ GUZMAN",
         first_lastname: "-",
         sponsor: 44,
-        placement: null,
+        placement: 44,
         username: "sanguz22",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -585,7 +585,7 @@ module.exports = {
         name: "NANCY AGUIRRE HERNANDEZ",
         first_lastname: "-",
         sponsor: 48,
-        placement: null,
+        placement: 48,
         username: "nancy56",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -597,7 +597,7 @@ module.exports = {
         name: "EDILBERTO CANO CARLIN",
         first_lastname: "-",
         sponsor: 48,
-        placement: null,
+        placement: 48,
         username: "edy45",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -609,7 +609,7 @@ module.exports = {
         name: "RAMON ADOLFO ARCE FLORES",
         first_lastname: "-",
         sponsor: 44,
-        placement: null,
+        placement: 44,
         username: "profe43",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -621,7 +621,7 @@ module.exports = {
         name: "IRMA GRACIELA PAVIA TARANGO",
         first_lastname: "-",
         sponsor: 42,
-        placement: null,
+        placement: 42,
         username: "pati1968",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -633,7 +633,7 @@ module.exports = {
         name: "RAUL BERNAL CRISPIN",
         first_lastname: "-",
         sponsor: 42,
-        placement: null,
+        placement: 42,
         username: "Raul01",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -645,7 +645,7 @@ module.exports = {
         name: "ANA ELVIA CHIPAHUA CORDOVA",
         first_lastname: "-",
         sponsor: 25,
-        placement: null,
+        placement: 25,
         username: "CHIKALINDA",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -657,7 +657,7 @@ module.exports = {
         name: "ANTONIO MENDEZ GARCIA",
         first_lastname: "-",
         sponsor: 54,
-        placement: null,
+        placement: 54,
         username: "Antonio0405",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -681,7 +681,7 @@ module.exports = {
         name: "CARLOS CASTELLANOS GARCIA",
         first_lastname: "-",
         sponsor: 54,
-        placement: null,
+        placement: 54,
         username: "CHARLY56",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -693,7 +693,7 @@ module.exports = {
         name: "MARGARITO GONZALEZ NOLASCO",
         first_lastname: "-",
         sponsor: 25,
-        placement: null,
+        placement: 25,
         username: "Mayito65",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -705,7 +705,7 @@ module.exports = {
         name: "MARTHA URBANO EUGENIO",
         first_lastname: "-",
         sponsor: 58,
-        placement: null,
+        placement: 58,
         username: "Maubeg",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -717,7 +717,7 @@ module.exports = {
         name: "MARCO ANTONIO ALTAMIRANO URBANO",
         first_lastname: "-",
         sponsor: 59,
-        placement: null,
+        placement: 59,
         username: "Marcalt",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -729,7 +729,7 @@ module.exports = {
         name: "MARIA ELIA MICAELINA JUAREZ EUGENIO",
         first_lastname: "-",
         sponsor: 59,
-        placement: null,
+        placement: 59,
         username: "Micael3482",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -741,7 +741,7 @@ module.exports = {
         name: "ALEJANDRO GONZALEZ CANDIA",
         first_lastname: "-",
         sponsor: 58,
-        placement: null,
+        placement: 58,
         username: "C@ndy",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -753,7 +753,7 @@ module.exports = {
         name: "JULIO ANGEL GONZALEZ VERA",
         first_lastname: "-",
         sponsor: 58,
-        placement: null,
+        placement: 58,
         username: "ngxl21",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -765,7 +765,7 @@ module.exports = {
         name: "FRANCISCO NUNEZ FERNANDEZ",
         first_lastname: "-",
         sponsor: 24,
-        placement: null,
+        placement: 24,
         username: "Negociosf",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -777,7 +777,7 @@ module.exports = {
         name: "ANSELMO ESPEJEL ESPINOSA",
         first_lastname: "-",
         sponsor: 64,
-        placement: null,
+        placement: 64,
         username: "Antony08",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -789,7 +789,7 @@ module.exports = {
         name: "GABRIEL DAVID GOMEZ BECERRIL",
         first_lastname: "-",
         sponsor: 65,
-        placement: null,
+        placement: 65,
         username: "Gaboteam",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -801,7 +801,7 @@ module.exports = {
         name: "NORMA LOPEZ LOPEZ",
         first_lastname: "-",
         sponsor: 66,
-        placement: null,
+        placement: 66,
         username: "Normis777",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -825,7 +825,7 @@ module.exports = {
         name: "VICTOR ALTAMIRANO CASTILLO",
         first_lastname: "-",
         sponsor: 66,
-        placement: null,
+        placement: 66,
         username: "Altkasvik",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -837,7 +837,7 @@ module.exports = {
         name: "BENITO VILLAR PALACIOS",
         first_lastname: "-",
         sponsor: 69,
-        placement: null,
+        placement: 69,
         username: "Bariteam",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -849,7 +849,7 @@ module.exports = {
         name: "ELVIA GARCIA ESPINOSA",
         first_lastname: "-",
         sponsor: 65,
-        placement: null,
+        placement: 65,
         username: "Fabis94",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -861,7 +861,7 @@ module.exports = {
         name: "VICTOR MANUEL VILLEGAS ESCAMIROSA",
         first_lastname: "-",
         sponsor: 71,
-        placement: null,
+        placement: 71,
         username: "vimavi",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -873,7 +873,7 @@ module.exports = {
         name: "MARIA EUGENIA TREJO RIVERA",
         first_lastname: "-",
         sponsor: 72,
-        placement: null,
+        placement: 72,
         username: "Maru0818",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -885,7 +885,7 @@ module.exports = {
         name: "HILDA ZAMORA MARTINEZ",
         first_lastname: "-",
         sponsor: 73,
-        placement: null,
+        placement: 73,
         username: "Zamo2150",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -897,7 +897,7 @@ module.exports = {
         name: "SAMUEL DOMINGUEZ TORRES",
         first_lastname: "-",
         sponsor: 74,
-        placement: null,
+        placement: 74,
         username: "RAVA 5180",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -909,7 +909,7 @@ module.exports = {
         name: "GLADYS CANDIA TREJO",
         first_lastname: "-",
         sponsor: 73,
-        placement: null,
+        placement: 73,
         username: "Gladys",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -921,7 +921,7 @@ module.exports = {
         name: "EVA CONSUELO HERNANDEZ HERNANDEZ",
         first_lastname: "-",
         sponsor: 76,
-        placement: null,
+        placement: 76,
         username: "Evita1987",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -933,7 +933,7 @@ module.exports = {
         name: "CARMEN RODRIGUEZ VAZQUEZ",
         first_lastname: "-",
         sponsor: 72,
-        placement: null,
+        placement: 72,
         username: "princesa7",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -945,7 +945,7 @@ module.exports = {
         name: "ROSALINDA HORTENSIA GARCIA RODRIGUEZ",
         first_lastname: "-",
         sponsor: 78,
-        placement: null,
+        placement: 78,
         username: "Estrella",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -957,7 +957,7 @@ module.exports = {
         name: "CELESTINO MALDONADO NERIA",
         first_lastname: "-",
         sponsor: 79,
-        placement: null,
+        placement: 79,
         username: "Maravilloso",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -969,7 +969,7 @@ module.exports = {
         name: "MARIA ESTHER RUBIO CARRILLO",
         first_lastname: "-",
         sponsor: 79,
-        placement: null,
+        placement: 79,
         username: "ESTHER63",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -981,7 +981,7 @@ module.exports = {
         name: "MILTON CHAVEZ LECHUGA",
         first_lastname: "-",
         sponsor: 78,
-        placement: null,
+        placement: 78,
         username: "Kamil",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -993,7 +993,7 @@ module.exports = {
         name: "ESCARLET CHAVEZ RODRIGUEZ",
         first_lastname: "-",
         sponsor: 78,
-        placement: null,
+        placement: 78,
         username: "Skay86",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1005,7 +1005,7 @@ module.exports = {
         name: "HORTENCIA ESCAMIROSA TINOCO",
         first_lastname: "-",
         sponsor: 72,
-        placement: null,
+        placement: 72,
         username: "Escami",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1017,7 +1017,7 @@ module.exports = {
         name: "MARCO ANTONIO GARCIA MORALES",
         first_lastname: "-",
         sponsor: 84,
-        placement: null,
+        placement: 84,
         username: "Markito",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1029,7 +1029,7 @@ module.exports = {
         name: "SANDRA EMILIA MARTINEZ CASTAÑEDA",
         first_lastname: "-",
         sponsor: 85,
-        placement: null,
+        placement: 85,
         username: "mvzsandra",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1041,7 +1041,7 @@ module.exports = {
         name: "FABIOLA MENDEZ GARCIA",
         first_lastname: "-",
         sponsor: 71,
-        placement: null,
+        placement: 71,
         username: "Fabiola04",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1053,7 +1053,7 @@ module.exports = {
         name: "MARIA ELENA CANSECO TORRES",
         first_lastname: "-",
         sponsor: 87,
-        placement: null,
+        placement: 87,
         username: "Malena18",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1065,7 +1065,7 @@ module.exports = {
         name: "JOSE DANIEL ESPINOSA GARCIA",
         first_lastname: "-",
         sponsor: 65,
-        placement: null,
+        placement: 65,
         username: "Dany290584",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1077,7 +1077,7 @@ module.exports = {
         name: "PRISCILA LOYOLA MONTES DE OCA",
         first_lastname: "-",
         sponsor: 89,
-        placement: null,
+        placement: 89,
         username: "PrizLoyola98",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1089,7 +1089,7 @@ module.exports = {
         name: "ALMA DELIA MONTES DE OCA GOMEZ",
         first_lastname: "-",
         sponsor: 90,
-        placement: null,
+        placement: 90,
         username: "Almanolas77",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1101,7 +1101,7 @@ module.exports = {
         name: "VIRGINIA GRANADOS JUAREZ",
         first_lastname: "-",
         sponsor: 89,
-        placement: null,
+        placement: 89,
         username: "Viki0622",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1113,7 +1113,7 @@ module.exports = {
         name: "BELEM HERNANDEZ HERNANDEZ",
         first_lastname: "-",
         sponsor: 64,
-        placement: null,
+        placement: 64,
         username: "BELLYHH",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1125,7 +1125,7 @@ module.exports = {
         name: "JOSE LUIS DE LA GARZA ROMERO",
         first_lastname: "-",
         sponsor: 93,
-        placement: null,
+        placement: 93,
         username: "MEGALANA",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1137,7 +1137,7 @@ module.exports = {
         name: " MARGARITA JUAREZ VASQUEZ",
         first_lastname: "-",
         sponsor: 94,
-        placement: null,
+        placement: 94,
         username: "MAGO1019",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1149,7 +1149,7 @@ module.exports = {
         name: "FLORENTINA GONZALEZ GONZALEZ",
         first_lastname: "-",
         sponsor: 93,
-        placement: null,
+        placement: 93,
         username: "Florecita22",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1161,7 +1161,7 @@ module.exports = {
         name: "SAMUEL RAMOS MORENO",
         first_lastname: "-",
         sponsor: 96,
-        placement: null,
+        placement: 96,
         username: "Sam22",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1185,7 +1185,7 @@ module.exports = {
         name: "ROSAURA BEATRIZ GUERRERO VILLEGAS",
         first_lastname: "-",
         sponsor: 96,
-        placement: null,
+        placement: 96,
         username: "rosaura70",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1197,7 +1197,7 @@ module.exports = {
         name: "LUZ MARIA BERNAL RODRIGUEZ",
         first_lastname: "-",
         sponsor: 96,
-        placement: null,
+        placement: 96,
         username: "Luzma3",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1209,7 +1209,7 @@ module.exports = {
         name: "GRISELDA REYES CRUZ",
         first_lastname: "-",
         sponsor: 100,
-        placement: null,
+        placement: 100,
         username: "Gris2022",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1221,7 +1221,7 @@ module.exports = {
         name: "XIMENA ORTIGOZA FAJARDO",
         first_lastname: "-",
         sponsor: 100,
-        placement: null,
+        placement: 100,
         username: "XimenadelaO",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1233,7 +1233,7 @@ module.exports = {
         name: "MICHEL JAZMIN NUÑEZ AGUILERA",
         first_lastname: "-",
         sponsor: 93,
-        placement: null,
+        placement: 93,
         username: "GANAYA",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1245,7 +1245,7 @@ module.exports = {
         name: "GUADALUPE MELENDREZ ARENAS",
         first_lastname: "-",
         sponsor: 64,
-        placement: null,
+        placement: 64,
         username: "Diamante62",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1269,7 +1269,7 @@ module.exports = {
         name: "GLORIA ELENA GARCIA FELIX",
         first_lastname: "-",
         sponsor: 24,
-        placement: null,
+        placement: 24,
         username: "yoyisexitosa",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1281,7 +1281,7 @@ module.exports = {
         name: "GAMALIEL ARGUELLO HERNANDEZ",
         first_lastname: "-",
         sponsor: 106,
-        placement: null,
+        placement: 106,
         username: "Gamma77",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1293,7 +1293,7 @@ module.exports = {
         name: "CESAR ALBERTO LARA PEREZ",
         first_lastname: "-",
         sponsor: 107,
-        placement: null,
+        placement: 107,
         username: "Lara74",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1305,7 +1305,7 @@ module.exports = {
         name: "JORGE HERNANDEZ DE LOS SANTOS",
         first_lastname: "-",
         sponsor: 107,
-        placement: null,
+        placement: 107,
         username: "Johs",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1317,7 +1317,7 @@ module.exports = {
         name: "SUSANA GARCIA FLORES",
         first_lastname: "-",
         sponsor: 109,
-        placement: null,
+        placement: 109,
         username: "SuGar",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1329,7 +1329,7 @@ module.exports = {
         name: "RAFAEL ORTEGA HERNANDEZ",
         first_lastname: "-",
         sponsor: 109,
-        placement: null,
+        placement: 109,
         username: "Lifepasion",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1341,7 +1341,7 @@ module.exports = {
         name: "ADELAIDA SANTOS ESTRADA",
         first_lastname: "-",
         sponsor: 111,
-        placement: null,
+        placement: 111,
         username: "creandograndeza",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1365,7 +1365,7 @@ module.exports = {
         name: "LUCIA CAROLINA RAMIREZ GONZALEZ",
         first_lastname: "-",
         sponsor: 113,
-        placement: null,
+        placement: 113,
         username: "Karoarca$",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1377,7 +1377,7 @@ module.exports = {
         name: "SANDRA LUZ CASTILLO GONZALEZ",
         first_lastname: "-",
         sponsor: 111,
-        placement: null,
+        placement: 111,
         username: "Sandraluz",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1389,7 +1389,7 @@ module.exports = {
         name: "JOSEFINA CERDA GUILLEN",
         first_lastname: "-",
         sponsor: 115,
-        placement: null,
+        placement: 115,
         username: "Josefin26",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1401,7 +1401,7 @@ module.exports = {
         name: "MARCO ANTONIO DIAZ GUERRERO",
         first_lastname: "-",
         sponsor: 111,
-        placement: null,
+        placement: 111,
         username: "MARCO12345",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1413,7 +1413,7 @@ module.exports = {
         name: "EVERARDO MORENO ISLAS",
         first_lastname: "-",
         sponsor: 107,
-        placement: null,
+        placement: 107,
         username: "Everardo68",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1425,7 +1425,7 @@ module.exports = {
         name: "MARIA DE JESUS ORTEGA PEÑA",
         first_lastname: "-",
         sponsor: 118,
-        placement: null,
+        placement: 118,
         username: "Palazio1",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1437,7 +1437,7 @@ module.exports = {
         name: "ISRAEL HERRERA CHAPARRO",
         first_lastname: "-",
         sponsor: 106,
-        placement: null,
+        placement: 106,
         username: "kspv",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1449,7 +1449,7 @@ module.exports = {
         name: "JUAN JORGE HERNANDEZ PEREZ",
         first_lastname: "-",
         sponsor: 120,
-        placement: null,
+        placement: 120,
         username: "jjhp23",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1461,7 +1461,7 @@ module.exports = {
         name: "ELVIA BARRUETA OCHOA",
         first_lastname: "-",
         sponsor: 120,
-        placement: null,
+        placement: 120,
         username: "elvianet",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1473,7 +1473,7 @@ module.exports = {
         name: "JUANA LETICIA ESTRADA AGUIRRE",
         first_lastname: "-",
         sponsor: 106,
-        placement: null,
+        placement: 106,
         username: "Latty@grande ",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1485,7 +1485,7 @@ module.exports = {
         name: "GLORIA DANIELA LEAL GARCIA",
         first_lastname: "-",
         sponsor: 123,
-        placement: null,
+        placement: 123,
         username: "Danipoter",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1497,7 +1497,7 @@ module.exports = {
         name: "ROSENDO VERGARA MUÑOZ",
         first_lastname: "-",
         sponsor: 124,
-        placement: null,
+        placement: 124,
         username: "rossmuñoz/",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1509,7 +1509,7 @@ module.exports = {
         name: "MERCEDES OSUNA MENDIVIL",
         first_lastname: "-",
         sponsor: 123,
-        placement: null,
+        placement: 123,
         username: "Lash2415",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1521,7 +1521,7 @@ module.exports = {
         name: "SUGHEY HANANY OLIVAS OSUNA",
         first_lastname: "-",
         sponsor: 126,
-        placement: null,
+        placement: 126,
         username: "SHOO",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1533,7 +1533,7 @@ module.exports = {
         name: "GONZALO ALBERTO GARCIA LEON",
         first_lastname: "-",
         sponsor: 127,
-        placement: null,
+        placement: 127,
         username: "Aguilareal",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1545,7 +1545,7 @@ module.exports = {
         name: "GONZALO ALBERTO VIVAR PULIDO",
         first_lastname: "-",
         sponsor: 128,
-        placement: null,
+        placement: 128,
         username: "Gavivar60",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1557,7 +1557,7 @@ module.exports = {
         name: "ALONSO MOLINA TRUJILLO",
         first_lastname: "-",
         sponsor: 129,
-        placement: null,
+        placement: 129,
         username: "mota1975",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1569,7 +1569,7 @@ module.exports = {
         name: "JOSE FRANCISCO LEON SANTOS",
         first_lastname: "-",
         sponsor: 129,
-        placement: null,
+        placement: 129,
         username: "Chocoleon2013",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1593,7 +1593,7 @@ module.exports = {
         name: "FELIPE BELTRAN PONCE",
         first_lastname: "-",
         sponsor: 126,
-        placement: null,
+        placement: 126,
         username: "felipe0000",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1605,7 +1605,7 @@ module.exports = {
         name: "MARILU IZQUIERDO MARQUEZ",
         first_lastname: "-",
         sponsor: 126,
-        placement: null,
+        placement: 126,
         username: "Mary2023",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1617,7 +1617,7 @@ module.exports = {
         name: "MANUEL MONDRAGON LECHUGA",
         first_lastname: "-",
         sponsor: 123,
-        placement: null,
+        placement: 123,
         username: "ManoloML",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1629,7 +1629,7 @@ module.exports = {
         name: "MARIA DE LA LUZ SANCHEZ GOMEZ",
         first_lastname: "-",
         sponsor: 135,
-        placement: null,
+        placement: 135,
         username: "LuzMary",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1641,7 +1641,7 @@ module.exports = {
         name: "ELVIA GARCIA VILLANUEVA",
         first_lastname: "-",
         sponsor: 23,
-        placement: null,
+        placement: 23,
         username: "elviagarcia",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1653,7 +1653,7 @@ module.exports = {
         name: "GUADALUPE VICTORIA HERNÁNDEZ ALARCON",
         first_lastname: "-",
         sponsor: 137,
-        placement: null,
+        placement: 137,
         username: "vikyhernandez",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1665,7 +1665,7 @@ module.exports = {
         name: "ABIGAIL HERNANDEZ LEON",
         first_lastname: "-",
         sponsor: 138,
-        placement: null,
+        placement: 138,
         username: "abyhernandez",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1677,7 +1677,7 @@ module.exports = {
         name: "ADELA ABURTO MARIN",
         first_lastname: "-",
         sponsor: 138,
-        placement: null,
+        placement: 138,
         username: "paloma*",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1689,7 +1689,7 @@ module.exports = {
         name: "EVERARDO GARCIA VILLANUEVA",
         first_lastname: "-",
         sponsor: 137,
-        placement: null,
+        placement: 137,
         username: "evegave",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1701,7 +1701,7 @@ module.exports = {
         name: "RUBICELIA RIVERA VELA",
         first_lastname: "-",
         sponsor: 141,
-        placement: null,
+        placement: 141,
         username: "Merit",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1713,7 +1713,7 @@ module.exports = {
         name: "SILVIA ESTHER CASTANEDA MARIN",
         first_lastname: "-",
         sponsor: 137,
-        placement: null,
+        placement: 137,
         username: "Silcamar",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1725,7 +1725,7 @@ module.exports = {
         name: "ALFREDO ERICK HERRERA MARTINEZ",
         first_lastname: "-",
         sponsor: 23,
-        placement: null,
+        placement: 23,
         username: "erickherreramtz",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1737,7 +1737,7 @@ module.exports = {
         name: "MARIA GUADALUPE LOPEZ REYES",
         first_lastname: "-",
         sponsor: 144,
-        placement: null,
+        placement: 144,
         username: "lupitalopezreyes80",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1749,7 +1749,7 @@ module.exports = {
         name: "ERICK DE JESUS HERRERA LOPEZ",
         first_lastname: "-",
         sponsor: 145,
-        placement: null,
+        placement: 145,
         username: "erickherrera2003",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1761,7 +1761,7 @@ module.exports = {
         name: "ANTONIO JIMENEZ CORDOBA",
         first_lastname: "-",
         sponsor: 146,
-        placement: null,
+        placement: 146,
         username: "antoniojmz2023",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1773,7 +1773,7 @@ module.exports = {
         name: "BLANCA ESTELA ALVAREZ CRUZ",
         first_lastname: "-",
         sponsor: 145,
-        placement: null,
+        placement: 145,
         username: "blancaalvarezc",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1785,7 +1785,7 @@ module.exports = {
         name: "ANDRES SANCHEZ MORALES",
         first_lastname: "-",
         sponsor: 148,
-        placement: null,
+        placement: 148,
         username: "andressanchezm",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1797,7 +1797,7 @@ module.exports = {
         name: "OLIVIA OLAZO OVANDO",
         first_lastname: "-",
         sponsor: 148,
-        placement: null,
+        placement: 148,
         username: "Ololazo",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1809,7 +1809,7 @@ module.exports = {
         name: "ENRIQUE GARCIA PUGA",
         first_lastname: "-",
         sponsor: 144,
-        placement: null,
+        placement: 144,
         username: "Enriquegp",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1821,7 +1821,7 @@ module.exports = {
         name: "CARLOS ANTONIO JIMENEZ MORALES",
         first_lastname: "-",
         sponsor: 151,
-        placement: null,
+        placement: 151,
         username: "Carlosajm",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1833,7 +1833,7 @@ module.exports = {
         name: "AIDE CARRILLO VIZCARRA",
         first_lastname: "-",
         sponsor: 152,
-        placement: null,
+        placement: 152,
         username: "Aide771",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1845,7 +1845,7 @@ module.exports = {
         name: "ANGEL ANTONIO JIMENEZ GONZALEZ",
         first_lastname: "-",
         sponsor: 152,
-        placement: null,
+        placement: 152,
         username: "Ángel2000",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1857,7 +1857,7 @@ module.exports = {
         name: "JOSE MANUEL PALAFOX PALACIOS",
         first_lastname: "-",
         sponsor: 151,
-        placement: null,
+        placement: 151,
         username: "mpalafox",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1869,7 +1869,7 @@ module.exports = {
         name: "MARÍA DEL ROCIO VELASCO ZAVALETA",
         first_lastname: "-",
         sponsor: 155,
-        placement: null,
+        placement: 155,
         username: "Rocíov680901",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1881,7 +1881,7 @@ module.exports = {
         name: "ARMANDO HUERTA ESCOBEDO",
         first_lastname: "-",
         sponsor: 21,
-        placement: null,
+        placement: 21,
         username: "Aguilanegra",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1905,7 +1905,7 @@ module.exports = {
         name: "BEATRIZ SEDANO SALCEDO",
         first_lastname: "-",
         sponsor: 21,
-        placement: null,
+        placement: 21,
         username: "Betty20",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1917,7 +1917,7 @@ module.exports = {
         name: "CECILIA DELGADILLO GONZALEZ",
         first_lastname: "-",
         sponsor: 20,
-        placement: null,
+        placement: 20,
         username: "Cecilia",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1929,7 +1929,7 @@ module.exports = {
         name: "EUSEBIA OLIVARES JIMENEZ",
         first_lastname: "-",
         sponsor: 160,
-        placement: null,
+        placement: 160,
         username: "Eusebia",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1941,7 +1941,7 @@ module.exports = {
         name: "RAFAEL PARRA MENDOZA",
         first_lastname: "-",
         sponsor: 161,
-        placement: null,
+        placement: 161,
         username: "Rafael",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1953,7 +1953,7 @@ module.exports = {
         name: "JOSE GILBERTO RAFAEL RODRIGUEZ GONZALEZ",
         first_lastname: "-",
         sponsor: 162,
-        placement: null,
+        placement: 162,
         username: "GILBERTO",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1965,7 +1965,7 @@ module.exports = {
         name: "PETRA MORALES JIMENEZ",
         first_lastname: "-",
         sponsor: 162,
-        placement: null,
+        placement: 162,
         username: "PETRA",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1977,7 +1977,7 @@ module.exports = {
         name: "JOSE GUILLERMO RODRIGUEZ OLIVAREZ",
         first_lastname: "-",
         sponsor: 162,
-        placement: null,
+        placement: 162,
         username: "GUILLERMO",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -1989,7 +1989,7 @@ module.exports = {
         name: "LUCIO GALLARDO BENITEZ",
         first_lastname: "-",
         sponsor: 161,
-        placement: null,
+        placement: 161,
         username: "Lucio",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2001,7 +2001,7 @@ module.exports = {
         name: "JOSE CHARBEL RODRIGUEZ OLIVARES",
         first_lastname: "-",
         sponsor: 166,
-        placement: null,
+        placement: 166,
         username: "Charbel",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2013,7 +2013,7 @@ module.exports = {
         name: "ANA LAURA ORTIZ RAMIREZ",
         first_lastname: "-",
         sponsor: 167,
-        placement: null,
+        placement: 167,
         username: "Analaura",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2025,7 +2025,7 @@ module.exports = {
         name: "ELIZABETH HERNANDEZ RAMIREZ",
         first_lastname: "-",
         sponsor: 167,
-        placement: null,
+        placement: 167,
         username: "ELIZABETH",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2037,7 +2037,7 @@ module.exports = {
         name: "RICARDO RAMIREZ GOMEZ",
         first_lastname: "-",
         sponsor: 167,
-        placement: null,
+        placement: 167,
         username: "RICARDORMRZ",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2049,7 +2049,7 @@ module.exports = {
         name: "MARTHA CIRNES CHANTES",
         first_lastname: "-",
         sponsor: 166,
-        placement: null,
+        placement: 166,
         username: "Cirnes",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2061,7 +2061,7 @@ module.exports = {
         name: "GUILLERMO SERAFIN MIXCOATL PEREZ",
         first_lastname: "-",
         sponsor: 171,
-        placement: null,
+        placement: 171,
         username: "MIXCOATL",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2073,7 +2073,7 @@ module.exports = {
         name: "ELENA GONZALEZ ORTIZ",
         first_lastname: "-",
         sponsor: 171,
-        placement: null,
+        placement: 171,
         username: "ELENAGLEZ",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2085,7 +2085,7 @@ module.exports = {
         name: "EMMANUEL TELLO CASCO",
         first_lastname: "-",
         sponsor: 171,
-        placement: null,
+        placement: 171,
         username: "EMMANUELTEL",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2097,7 +2097,7 @@ module.exports = {
         name: "MIRIAN JIMENEZ BAUTISTA",
         first_lastname: "-",
         sponsor: 166,
-        placement: null,
+        placement: 166,
         username: "MIRIAN",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2109,7 +2109,7 @@ module.exports = {
         name: "MARIA SILVIA DIAZ MOLINA",
         first_lastname: "-",
         sponsor: 175,
-        placement: null,
+        placement: 175,
         username: "MADIAZ",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2121,7 +2121,7 @@ module.exports = {
         name: "GUILLERMINA ESPINOZA FLORES",
         first_lastname: "-",
         sponsor: 175,
-        placement: null,
+        placement: 175,
         username: "GUILLEZ",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2133,7 +2133,7 @@ module.exports = {
         name: "MARIA BELEM GOMEZ ESPINOZA",
         first_lastname: "-",
         sponsor: 161,
-        placement: null,
+        placement: 161,
         username: "BELEM",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2145,7 +2145,7 @@ module.exports = {
         name: "ENEDINA RAMIREZ VILLEGAS",
         first_lastname: "-",
         sponsor: 178,
-        placement: null,
+        placement: 178,
         username: "ENEDINA",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2157,7 +2157,7 @@ module.exports = {
         name: "MARIA DEL CARMEN DOMINGUEZ ARCOS",
         first_lastname: "-",
         sponsor: 179,
-        placement: null,
+        placement: 179,
         username: "CARMENDOMINGUEZ",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2169,7 +2169,7 @@ module.exports = {
         name: "IAN MISAEL RAMIREZ GOMEZ",
         first_lastname: "-",
         sponsor: 179,
-        placement: null,
+        placement: 179,
         username: "IAN",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2181,7 +2181,7 @@ module.exports = {
         name: "REMEDIOS GOMEZ ESPINOZA",
         first_lastname: "-",
         sponsor: 179,
-        placement: null,
+        placement: 179,
         username: "REMEDIOS",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2193,7 +2193,7 @@ module.exports = {
         name: "MARIA GUADALUPE MARTINEZ MONTIEL",
         first_lastname: "-",
         sponsor: 178,
-        placement: null,
+        placement: 178,
         username: "MAGUADALUPE",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2205,7 +2205,7 @@ module.exports = {
         name: "AMELIA MARISINA CASCO DIAZ",
         first_lastname: "-",
         sponsor: 178,
-        placement: null,
+        placement: 178,
         username: "CASCO",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2217,7 +2217,7 @@ module.exports = {
         name: "LIZETTE ARAUJO BLEIZEFFER",
         first_lastname: "-",
         sponsor: 160,
-        placement: null,
+        placement: 160,
         username: "Lizette",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2229,7 +2229,7 @@ module.exports = {
         name: "LISSETTE PENELOPE ARAUJO BLEIZEFFER",
         first_lastname: "-",
         sponsor: 185,
-        placement: null,
+        placement: 185,
         username: "Lissette",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2241,7 +2241,7 @@ module.exports = {
         name: "ARCELIA VIVEROS BLANCO",
         first_lastname: "-",
         sponsor: 160,
-        placement: null,
+        placement: 160,
         username: "Arcelia",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2253,7 +2253,7 @@ module.exports = {
         name: "FRANCISCO TRUJILLO ESPINOZA",
         first_lastname: "-",
         sponsor: 187,
-        placement: null,
+        placement: 187,
         username: "Francisco",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2265,7 +2265,7 @@ module.exports = {
         name: "ELENA GALVAN CAZARES",
         first_lastname: "-",
         sponsor: 188,
-        placement: null,
+        placement: 188,
         username: "ElenaGalvan",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2277,7 +2277,7 @@ module.exports = {
         name: "SANJUANA MARTINEZ ESPINOZA",
         first_lastname: "-",
         sponsor: 187,
-        placement: null,
+        placement: 187,
         username: "Sanjuana",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2313,7 +2313,7 @@ module.exports = {
         name: "ERENDIRA REGLA SANTANA",
         first_lastname: "-",
         sponsor: 20,
-        placement: null,
+        placement: 20,
         username: "Erendira",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2349,7 +2349,7 @@ module.exports = {
         name: "MARIO RAFAEL RAYAS FRANCO",
         first_lastname: "-",
         sponsor: 195,
-        placement: null,
+        placement: 195,
         username: "MRayas",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2361,7 +2361,7 @@ module.exports = {
         name: "MA. ISABEL CASTAÑEDA RAMOS",
         first_lastname: "-",
         sponsor: 195,
-        placement: null,
+        placement: 195,
         username: "Coralito333",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2373,7 +2373,7 @@ module.exports = {
         name: "BERNARDA NAVARRO IBARRA",
         first_lastname: "-",
         sponsor: 197,
-        placement: null,
+        placement: 197,
         username: "Larosa",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2385,7 +2385,7 @@ module.exports = {
         name: "JOSE FERNANDO OLIVA RICO",
         first_lastname: "-",
         sponsor: 197,
-        placement: null,
+        placement: 197,
         username: "HADDEZ",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2397,7 +2397,7 @@ module.exports = {
         name: "GABRIELA GUILLERMINA PEREZLETE PEREZ",
         first_lastname: "-",
         sponsor: 195,
-        placement: null,
+        placement: 195,
         username: "GGuille",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2421,7 +2421,7 @@ module.exports = {
         name: "ANGEL ADRIAN SANTOS GOMEZ",
         first_lastname: "-",
         sponsor: 11,
-        placement: null,
+        placement: 11,
         username: "230112",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2433,7 +2433,7 @@ module.exports = {
         name: "MARIA DEL CARMEN GARCIA LUNA",
         first_lastname: "-",
         sponsor: 1,
-        placement: null,
+        placement: 1,
         username: "Carmelita",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2445,7 +2445,7 @@ module.exports = {
         name: "JUANA GUADALUPE SANCHEZ TAPIA",
         first_lastname: "-",
         sponsor: 203,
-        placement: null,
+        placement: 203,
         username: "Gabina1934",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2457,7 +2457,7 @@ module.exports = {
         name: "BERTHA ALICIA GARCIA LUNA",
         first_lastname: "-",
         sponsor: 204,
-        placement: null,
+        placement: 204,
         username: "Dana@105",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2469,7 +2469,7 @@ module.exports = {
         name: "MARIA GUADALUPE MAGAÑA MORALES",
         first_lastname: "-",
         sponsor: 203,
-        placement: null,
+        placement: 203,
         username: "Camila28$",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2481,7 +2481,7 @@ module.exports = {
         name: "GUADALUPE MARTINEZ PAZ",
         first_lastname: "-",
         sponsor: 206,
-        placement: null,
+        placement: 206,
         username: "Lupis@25",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2493,7 +2493,7 @@ module.exports = {
         name: "ANTONIA CHACON",
         first_lastname: "-",
         sponsor: 207,
-        placement: null,
+        placement: 207,
         username: "Tony0322",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2505,7 +2505,7 @@ module.exports = {
         name: "VICTOR MANUEL CARO LUJAN",
         first_lastname: "-",
         sponsor: 207,
-        placement: null,
+        placement: 207,
         username: "Guadalupe2004$",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2517,7 +2517,7 @@ module.exports = {
         name: "MARGARITA MARTINEZ PAZ",
         first_lastname: "-",
         sponsor: 207,
-        placement: null,
+        placement: 207,
         username: "marga62",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2529,7 +2529,7 @@ module.exports = {
         name: "JOSE ALBERTO GAYTAN MAGAÑA",
         first_lastname: "-",
         sponsor: 206,
-        placement: null,
+        placement: 206,
         username: "Adamaris28$",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2541,7 +2541,7 @@ module.exports = {
         name: "MARTHA PATRICIA MORALES CHAVEZ",
         first_lastname: "-",
         sponsor: 203,
-        placement: null,
+        placement: 203,
         username: "Paty2021$",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2553,7 +2553,7 @@ module.exports = {
         name: "MA LUZ RIVAS CONTRERAS",
         first_lastname: "-",
         sponsor: 212,
-        placement: null,
+        placement: 212,
         username: "Malu$56",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
@@ -2565,7 +2565,7 @@ module.exports = {
         name: "ISABEL GARCIA LUNA",
         first_lastname: "-",
         sponsor: 212,
-        placement: null,
+        placement: 212,
         username: "Lalo40",
         password:
           "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",

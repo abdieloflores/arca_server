@@ -4,10 +4,10 @@ module.exports = (app) => {
   const Op = db.Sequelize.Op;
   const Users = db["users"];
 
-  var router = require("express").Router();
+  let router = require("express").Router();
 
-  var passport = require("passport");
-  var GoogleStrategy = require("passport-google-oidc");
+  let passport = require("passport");
+  let GoogleStrategy = require("passport-google-oidc");
 
   const GOOGLE_CLIENT_ID = process.env.GOOGLE_CLIENT_ID;
   const GOOGLE_CLIENT_SECRET = process.env.GOOGLE_CLIENT_ID;
@@ -41,7 +41,7 @@ module.exports = (app) => {
       session: false,
     }),
     async function (req, res) {
-      var condition = {
+      let condition = {
         where: {
           [Op.and]: [
             {
@@ -54,7 +54,7 @@ module.exports = (app) => {
       const data = await Users.findOne(condition);
 
       if (data) {
-        var result = {
+        let result = {
           access_token: jwt.accessTokenEncode(data.id),
           refresh_token: jwt.refreshTokenEncode(data.id),
           user: data,
@@ -66,14 +66,14 @@ module.exports = (app) => {
         });
         const data_ = await users.save(users);
 
-        var result = {
+        let result = {
           access_token: jwt.accessTokenEncode(data_.id),
           refresh_token: jwt.refreshTokenEncode(data_.id),
           user: data_,
         };
       }
 
-      var responseHTML =
+      let responseHTML =
         '<html><head><title>Main</title></head><body></body><script>res = %value%; window.opener.postMessage(res, "*");window.close();</script></html>';
       responseHTML = responseHTML.replace("%value%", JSON.stringify(result));
       res.status(200).send(responseHTML);

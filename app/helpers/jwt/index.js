@@ -28,7 +28,7 @@ exports.refreshTokenEncode = function refreshTokenEncode(user_id) {
 
 exports.accessTokenDecode = function accessTokenDecode(fn, access_token) {
     try {
-        var decoded = jwt.verify(access_token, ACCESS_TOKEN_SECRET);
+        let decoded = jwt.verify(access_token, ACCESS_TOKEN_SECRET);
         fn({
             status: true,
             data: decoded
@@ -46,7 +46,7 @@ exports.accessTokenDecode = function accessTokenDecode(fn, access_token) {
 
 exports.refreshTokenDecode = function refreshTokenDecode(fn, refresh_token) {
     try {
-        var decoded = jwt.verify(refresh_token, REFRESH_TOKEN_SECRET);
+        let decoded = jwt.verify(refresh_token, REFRESH_TOKEN_SECRET);
         fn({
             status: true,
             data: decoded

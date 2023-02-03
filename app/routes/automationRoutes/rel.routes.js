@@ -2,7 +2,7 @@ module.exports = app => {
   const auth = require("../../middlewares/auth");
   const rel = require("../../controllers/automationControllers/rel.controller");
 
-  var router = require("express").Router();
+  let router = require("express").Router();
 
   router.get("/:document/:document2/", rel.findAll);
 
