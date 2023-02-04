@@ -46,10 +46,6 @@ async function testConnection() {
 
 testConnection();
 
-app.get("/", (req, res) => {
-  res.json({ message: "Welcome" });
-});
-
 // Automation routes
 require("./app/routes/automationRoutes/auth.routes")(app);
 require("./app/routes/automationRoutes/social.routes")(app);
@@ -68,7 +64,7 @@ require("./app/routes/mlm/banks.routes")(app);
 require("./app/routes/mlm/categories.routes")(app);
 // require("./app/routes/mlm/commission_types.routes")(app);
 // require("./app/routes/mlm/commissions.routes")(app);
-require("./app/routes/mlm/items.routes")(app);
+require("./app/routes/mlm/items.routes")(app); // Faltan de aquí para arriba de terminar en postman y sus controllers
 require("./app/routes/mlm/levels.routes")(app);
 require("./app/routes/mlm/order_details.routes")(app);
 require("./app/routes/mlm/orders.routes")(app);
@@ -78,9 +74,8 @@ require("./app/routes/mlm/settings.routes")(app);
 require("./app/routes/mlm/user_levels.routes")(app);
 require("./app/routes/mlm/users.routes")(app);
 
-require("./app/routes/app.routes")(app);
-
 const PORT = process.env.PORT || 8080;
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);
 });

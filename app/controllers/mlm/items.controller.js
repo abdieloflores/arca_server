@@ -37,8 +37,17 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
-    const data = await db.items.findByPk(id, {
-      attributes: { exclude: ["password"] },
+    const data = await db.items.findOne({
+      where: {
+        [Op.or]: [
+          {
+            item_id: id,
+          },
+          {
+            name: id,
+          },
+        ],
+      },
     });
     if (data) {
       res.send(data);
@@ -58,9 +67,9 @@ exports.update = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.items.update(req.body, {
-      where: { user_id: id },
+      where: { item_id: id },
     });
-     
+
     if (num == 1) {
       res.send({
         message: "Updated successfully.",
@@ -81,7 +90,7 @@ exports.delete = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.items.destroy({
-      where: { id: id },
+      where: { item_id: id },
     });
     if (num == 1) {
       res.send({
