@@ -15,7 +15,7 @@ exports.create = async (req, res) => {
 exports.findAll = async (req, res) => {
   try {
     let condition = {
-      order: [["item_id", "ASC"]],
+      order: [["level_id", "ASC"]],
     };
     let offset = parseInt(req.query.offset);
     let limit = parseInt(req.query.limit);
@@ -37,8 +37,17 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
-    const data = await db.levels.findByPk(id, {
-      attributes: { exclude: ["password"] },
+    const data = await db.levels.findOne({
+      where: {
+        [Op.or]: [
+          {
+            level_id: id,
+          },
+          {
+            name: id,
+          },
+        ],
+      },
     });
     if (data) {
       res.send(data);
@@ -58,9 +67,9 @@ exports.update = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.levels.update(req.body, {
-      where: { user_id: id },
+      where: { level_id: id },
     });
-     
+
     if (num == 1) {
       res.send({
         message: "Updated successfully.",
@@ -81,7 +90,7 @@ exports.delete = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.levels.destroy({
-      where: { id: id },
+      where: { level_id: id },
     });
     if (num == 1) {
       res.send({
