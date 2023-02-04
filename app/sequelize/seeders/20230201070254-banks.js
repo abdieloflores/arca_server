@@ -69,7 +69,6 @@ module.exports = {
       { name: "PUADRUM" },
       { name: "REPUBLIC NY" },
       { name: "SANTANDER" },
-      { name: "SANTANDER" },
       { name: "SCOTIABANK" },
       { name: "SERFIN" },
       { name: "SOCIÉTÉ" },

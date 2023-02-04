@@ -42,7 +42,7 @@ module.exports = (sequelize, Sequelize) => {
         defaultValue: 0,
       },
       payment_status: {
-        type: Sequelize.STRING,
+        type: Sequelize.ENUM("unpaid", "pending", "rejected", "paid"),
         allowNull: false,
         defaultValue: "unpaid",
       },
@@ -50,7 +50,7 @@ module.exports = (sequelize, Sequelize) => {
         type: Sequelize.BIGINT(20),
       },
       type: {
-        type: Sequelize.STRING,
+        type: Sequelize.ENUM("buy", "enrollment", "re-enrollment"),
         allowNull: false,
         defaultValue: "buy",
       },

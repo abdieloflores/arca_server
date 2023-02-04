@@ -5,10 +5,11 @@ module.exports = (app) => {
   let router = require("express").Router();
 
   router.get("/", ctrl.findAll);
-  router.get("/:id", ctrl.findOne);
+  router.get("/:order", ctrl.findByOrder);
+  router.get("/:order/:item", ctrl.findByOrderItem);
   router.post("/", ctrl.create);
-  router.put("/:id", ctrl.update);
-  router.delete("/:id", ctrl.delete);
+  router.put("/:order/:item", ctrl.update);
+  router.delete("/:order/:item", ctrl.delete);
   router.delete("/", ctrl.deleteAll);
 
   app.use("/order_details", auth, router);

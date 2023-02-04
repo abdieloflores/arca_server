@@ -15,7 +15,7 @@ exports.create = async (req, res) => {
 exports.findAll = async (req, res) => {
   try {
     let condition = {
-      order: [["order_id_id", "ASC"]],
+      order: [["order_id", "ASC"]],
     };
     let offset = parseInt(req.query.offset);
     let limit = parseInt(req.query.limit);
@@ -37,9 +37,7 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
-    const data = await db.orders.findByPk(id, {
-      attributes: { exclude: ["password"] },
-    });
+    const data = await db.orders.findByPk(id);
     if (data) {
       res.send(data);
     } else {
@@ -57,10 +55,11 @@ exports.findOne = async (req, res) => {
 exports.update = async (req, res) => {
   try {
     const id = req.params.id;
+
     const num = await db.orders.update(req.body, {
-      where: { user_id: id },
+      where: { order_id: id },
     });
-    console.log(num);
+
     if (num == 1) {
       res.send({
         message: "Updated successfully.",
@@ -81,7 +80,7 @@ exports.delete = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.orders.destroy({
-      where: { id: id },
+      where: { order_id: id },
     });
     if (num == 1) {
       res.send({

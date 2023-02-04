@@ -13,6 +13,24 @@ module.exports = {
         discount: "0",
         tax: "0",
       },
+      {
+        name: "Membresía 300",
+        description: "Acceso a toda la plataforma ARCA",
+        image: "",
+        price: "200",
+        points: "20",
+        discount: "0",
+        tax: "0",
+      },
+      {
+        name: "Membresía 400",
+        description: "Acceso a toda la plataforma ARCA",
+        image: "",
+        price: "200",
+        points: "20",
+        discount: "0",
+        tax: "0",
+      },
     ]);
   },
 

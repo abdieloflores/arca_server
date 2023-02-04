@@ -7,12 +7,26 @@ module.exports = {
       {
         admin_role_id: 1,
         name: "Admin",
-        first_lastname: "",
+        first_lastname: "Test",
         second_lastname: "",
         username: "admin",
         password:
-          "$2y$10$jf8LCZ8aOZd84z0ey3.G/.AdB0abFnkJ9djZPZgc4fWgBx2vf/Ypq",
-        email: "abdiel.oto@gmail.com",
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
+        email: "admin@arcaproyect.com",
+        phone: "0000000000",
+        image: "",
+        image_link:
+          "https://wl-genial.cf.tsp.li/resize/728x/jpg/91b/430/964a9c5ac9933cc012d0bd80be.jpg",
+      },
+      {
+        admin_role_id: 1,
+        name: "Abdiel Otoniel",
+        first_lastname: "Flores",
+        second_lastname: "González",
+        username: "otonielflores",
+        password:
+          "$2b$10$CmqaBqZHNmyoRFY9oOXxK./06bYm6IT5Pizj4bGn4pR1kbAdkUSo.",
+        email: "abdiel_flores@outlook.com",
         phone: "3323842026",
         image: "",
         image_link:

@@ -37,7 +37,18 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
-    const data = await db.settings.findByPk(id);
+    const data = await db.settings.findOne({
+      where: {
+        [Op.or]: [
+          {
+            setting_id: id,
+          },
+          {
+            name: id,
+          },
+        ],
+      },
+    });
     if (data) {
       res.send(data);
     } else {
@@ -58,7 +69,7 @@ exports.update = async (req, res) => {
     const num = await db.settings.update(req.body, {
       where: { setting_id: id },
     });
-    console.log(num);
+     
     if (num == 1) {
       res.send({
         message: "Updated successfully.",

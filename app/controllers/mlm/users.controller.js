@@ -38,14 +38,49 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
-    const data = await db.users.findByPk(id, {
+    const data = await db.users.findOne({
+      where: {
+        [Op.or]: [
+          {
+            user_id: id,
+          },
+          {
+            username: id,
+          },
+        ],
+      },
       attributes: { exclude: ["password"] },
     });
+
     if (data) {
       res.send(data);
     } else {
       res.status(404).send({
         message: `Cannot find with id ${id}.`,
+      });
+    }
+  } catch (error) {
+    res.status(500).send({
+      message: error.message,
+    });
+  }
+};
+
+exports.findByUsername = async (req, res) => {
+  try {
+    const user = req.params.username;
+
+    const data = await db.users.findAll({
+      where: {
+        username: user,
+      },
+    });
+
+    if (data) {
+      res.send(data);
+    } else {
+      res.status(404).send({
+        message: `Cannot find with username ${user}.`,
       });
     }
   } catch (error) {
@@ -108,7 +143,7 @@ exports.update = async (req, res) => {
     const num = await db.users.update(req.body, {
       where: { user_id: id },
     });
-    console.log(num);
+
     if (num == 1) {
       res.send({
         message: "Updated successfully.",

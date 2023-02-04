@@ -37,8 +37,17 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
-    const data = await db.payment_methods.findByPk(id, {
-      attributes: { exclude: ["password"] },
+    const data = await db.payment_methods.findOne({
+      where: {
+        [Op.or]: [
+          {
+            payment_method_id: id,
+          },
+          {
+            name: id,
+          },
+        ],
+      },
     });
     if (data) {
       res.send(data);
@@ -58,9 +67,9 @@ exports.update = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.payment_methods.update(req.body, {
-      where: { user_id: id },
+      where: { payment_method_id: id },
     });
-    console.log(num);
+
     if (num == 1) {
       res.send({
         message: "Updated successfully.",
@@ -81,7 +90,7 @@ exports.delete = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.payment_methods.destroy({
-      where: { id: id },
+      where: { payment_method_id: id },
     });
     if (num == 1) {
       res.send({
@@ -89,7 +98,7 @@ exports.delete = async (req, res) => {
       });
     } else {
       res.send({
-        message: `Cannot delete with id=${id}.`,
+        message: `Cannot delete with id ${id}.`,
       });
     }
   } catch (error) {

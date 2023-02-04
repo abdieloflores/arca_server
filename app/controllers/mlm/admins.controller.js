@@ -60,7 +60,7 @@ exports.update = async (req, res) => {
     const num = await db.admins.update(req.body, {
       where: { user_id: id },
     });
-    console.log(num);
+     
     if (num == 1) {
       res.send({
         message: "Updated successfully.",

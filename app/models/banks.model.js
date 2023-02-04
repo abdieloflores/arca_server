@@ -11,6 +11,7 @@ module.exports = (sequelize, Sequelize) => {
         name: {
           type: Sequelize.STRING,
           allowNull: false,
+          unique: true,
         },
         created_at: {
           type: "datetime not null default current_timestamp",

@@ -60,7 +60,6 @@ require("./app/routes/automationRoutes/file.routes")(app);
 require("./app/routes/automationRoutes/email.routes")(app);
 require("./app/routes/automationRoutes/rel.routes")(app);
 
-
 // MLM routes
 require("./app/routes/mlm/admin_roles.routes")(app);
 require("./app/routes/mlm/admins.routes")(app);
@@ -71,7 +70,7 @@ require("./app/routes/mlm/categories.routes")(app);
 // require("./app/routes/mlm/commissions.routes")(app);
 require("./app/routes/mlm/items.routes")(app);
 require("./app/routes/mlm/levels.routes")(app);
-// require("./app/routes/mlm/order_details.routes")(app);
+require("./app/routes/mlm/order_details.routes")(app);
 require("./app/routes/mlm/orders.routes")(app);
 require("./app/routes/mlm/payment_methods.routes")(app);
 require("./app/routes/mlm/periods.routes")(app);

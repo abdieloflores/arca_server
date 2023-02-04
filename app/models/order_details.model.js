@@ -16,17 +16,12 @@ module.exports = (sequelize, Sequelize) => {
         type: Sequelize.JSON,
         allowNull: false,
       },
-      price: {
-        type: Sequelize.DECIMAL(24, 4),
-        allowNull: false,
-        defaultValue: 0,
-      },
-      points: {
-        type: Sequelize.DECIMAL(24, 4),
-        allowNull: false,
-        defaultValue: 0,
-      },
       quantity: {
+        type: Sequelize.DECIMAL(24, 4),
+        allowNull: false,
+        defaultValue: 0,
+      },
+      total_points: {
         type: Sequelize.DECIMAL(24, 4),
         allowNull: false,
         defaultValue: 0,
@@ -37,11 +32,6 @@ module.exports = (sequelize, Sequelize) => {
         defaultValue: 0,
       },
       tax_amount: {
-        type: Sequelize.DECIMAL(24, 4),
-        allowNull: false,
-        defaultValue: 0,
-      },
-      total_points: {
         type: Sequelize.DECIMAL(24, 4),
         allowNull: false,
         defaultValue: 0,

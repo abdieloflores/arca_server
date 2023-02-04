@@ -37,8 +37,17 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const id = req.params.id;
-    const data = await db.periods.findByPk(id, {
-      attributes: { exclude: ["password"] },
+    const data = await db.periods.findOne({
+      where: {
+        [Op.or]: [
+          {
+            period_id: id,
+          },
+          {
+            name: id,
+          },
+        ],
+      },
     });
     if (data) {
       res.send(data);
@@ -58,9 +67,9 @@ exports.update = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.periods.update(req.body, {
-      where: { user_id: id },
+      where: { period_id: id },
     });
-    console.log(num);
+
     if (num == 1) {
       res.send({
         message: "Updated successfully.",
@@ -81,7 +90,7 @@ exports.delete = async (req, res) => {
   try {
     const id = req.params.id;
     const num = await db.periods.destroy({
-      where: { id: id },
+      where: { period_id: id },
     });
     if (num == 1) {
       res.send({

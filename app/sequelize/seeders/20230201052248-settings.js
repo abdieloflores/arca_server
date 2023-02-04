@@ -41,16 +41,28 @@ module.exports = {
         value: "atencion@arcaproyect.com",
       },
       {
-        name: "smtp",
-        value: `{
-          "server_address": "smtp.gmail.com",
-          "name": "Arca Proyect",
-          "username": "notifications@arcaproyect.com",
-          "password": "123456789",
-          "type": "tls",
-          "tls": "587",
-          "ssl": "465",
-        }`,
+        name: "smtp_address",
+        value: "smtp.gmail.com",
+      },
+      {
+        name: "smtp_name",
+        value: "Arca Proyect",
+      },
+      {
+        name: "smtp_user",
+        value: "notifications@arcaproyect.com",
+      },
+      {
+        name: "smtp_password",
+        value: "123456789",
+      },
+      {
+        name: "smtp_tls",
+        value: "587",
+      },
+      {
+        name: "smtp_ssl",
+        value: "465",
       },
     ]);
   },

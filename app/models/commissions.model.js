@@ -46,7 +46,7 @@ module.exports = (sequelize, Sequelize) => {
         defaultValue: 0,
       },
       payment_status: {
-        type: Sequelize.STRING,
+        type: Sequelize.ENUM("unpaid", "pending", "rejected", "paid"),
         allowNull: false,
         defaultValue: "unpaid",
       },

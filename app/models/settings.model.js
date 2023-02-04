@@ -11,9 +11,10 @@ module.exports = (sequelize, Sequelize) => {
       name: {
         type: Sequelize.STRING,
         allowNull: false,
+        unique: true,
       },
       value: {
-        type: Sequelize.TEXT('long'),
+        type: Sequelize.TEXT("long"),
         allowNull: false,
       },
       created_at: {
