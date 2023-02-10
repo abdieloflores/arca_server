@@ -38,7 +38,7 @@ exports.loginUserAuth = async (req, res) => {
       const match = await bcrypt.compare(req.body.password, data.password);
       if (match) {
         res.send({
-          token: jwt.accessTokenEncode(data),
+          token: jwt.accessTokenEncode(data, "user"),
         });
       } else {
         res.status(400).send({
@@ -68,9 +68,9 @@ exports.loginAdminAuth = async (req, res) => {
           {
             username: req.body.username,
           },
-          {
-            email: req.body.username,
-          },
+          // {
+          //   email: req.body.username,
+          // },
         ],
       },
     };

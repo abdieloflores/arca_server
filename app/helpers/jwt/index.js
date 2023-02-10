@@ -10,10 +10,12 @@ const REFRESH_TOKEN_SECRET =
 // expiresIn // Eg: 60, "2 days", "10h", "7d".
 // default ("120" is equal to "120ms").
 
-exports.accessTokenEncode = function accessTokenEncode(user_id) {
+exports.accessTokenEncode = function accessTokenEncode(user, type) {
   const token = jwt.sign(
     {
-      id: user_id,
+      user_id: user.user_id,
+      user: user,
+      type: type,
     },
     ACCESS_TOKEN_SECRET,
     {
